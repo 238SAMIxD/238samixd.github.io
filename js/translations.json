@@ -1,0 +1,128 @@
+{
+    "pl": {
+        "current": "Obecnie",
+        "month": {
+            "jan": "Sty",
+            "feb": "Lut",
+            "mar": "Mar",
+            "apr": "Kwi",
+            "may": "Maj",
+            "jun": "Cze",
+            "jul": "Lip",
+            "aug": "Sie",
+            "sep": "Wrz",
+            "oct": "Paź",
+            "nov": "Lis",
+            "dec": "Gru"
+        },
+        "info": {
+            "looking": "Junior Front-end Developer",
+            "job": "Edytor wideo na zlecenie",
+            "study": "Politechnika Gdańska",
+            "direction": "Informatyka, 2 rok",
+            "home": "Gdańsk, PL",
+            "driver_licence": "Prawo jazdy kategorii B"
+        },
+        "languages": {
+            "pl": "Polski",
+            "en": "Angielski",
+            "de": "Niemiecki"
+        },
+        "work": {
+            "title": "Doświadczenie zawodowe",
+            "hexireal": {
+                "title": "Edytor wideo na zlecenie",
+                "desc": "Zatrudniony na zlecenie streamera Hexireal z Twitcha"
+            },
+            "twitch": {
+                "title": "Streamer na platformie Twitch.tv",
+                "desc": "Status towarzysza"
+            },
+            "cern": {
+                "title": "Staż w CERN",
+                "desc": "Eksperyment NA61 wraz ze spotkaniem offline w Genewie w dniach 21-25.09.2020 roku"
+            },
+            "relax": {
+                "title": "Ośrodek Wypoczynkowy RELAX w Zdworzu",
+                "desc": "Praca przy grillu i obsługa klientów przy kasie"
+            },
+            "mvt": {
+                "desc": "Przyjmujący"
+            }
+        },
+        "edu": {
+            "title": "Edukacja",
+            "pg": {
+                "title": "Politechnika Gdańska",
+                "desc": "Kierunek Informatyka"
+            },
+            "highschool": {
+                "title": "Liceum ogólnokształcące im. Marszałka Stanisława Małachowskiego w Płocku",
+                "desc": "Wykształcenie średnie",
+                "desc2": "Profil akademicki z rozszerzoną matematyką i fizyką"
+            },
+            "middleschool": {
+                "title": "Gimnazjum nr 2 im. Polskich Noblistów w Gostyninie",
+                "desc": "Klasa matematyczno-informatyczna"
+            },
+            "primaryschool": {
+                "title": "Szkoła Podstawowa nr 3 im. Obrońców Westerplatte w Gostyninie",
+                "desc": "Wykształcenie podstawowe"
+            }
+        },
+        "projects": {
+            "title": "Projekty",
+            "also": {
+                "title": "Amatorska Liga Szachowa Online",
+                "desc": "Rozbudowany serwis internetowy służący do"
+            },
+            "tictactoe": {
+                "title": "Kółko i krzyżyk w JavaScript",
+                "desc": "Prosta gra w kółko i krzyżyk w czystym JavaScripcie"
+            },
+            "smartphonejs": {
+                "title": "Aplikacja na smartphone zrobiona w CSS i JS. Funkcjonalność i dźwięki",
+                "desc": "Dalszy rozwój poprzedniego projektu"
+            },
+            "smartphonecss": {
+                "title": "Aplikacja mobilna do płatności zrobiona tylko w CSS",
+                "desc": "Projekt aplikacji mobilnej przeznaczonej do przyjmowania oraz realizowania płatności zaprojektowana z pomocą samego HTML i CSS na hackathon Hack4Lem"
+            }
+        },
+        "certs": {
+            "title": "Certyfikaty",
+            "certificate": "Certyfikat",
+            "jsbasics": {
+                "title": "Podstawy programowania w języku JavaScript",
+                "by": "Uniwersytet Szczeciński"
+            },
+            "aibasics": {
+                "title": "Podstawy sztucznej inteligencji",
+                "by": "Ośrodek Przetwarzania Informacji – Państwowy Instytut Badawczy"
+            },
+            "webdesign": {
+                "title": "Projektowanie Witryn Internetowych",
+                "by": "Akademia Ekonomiczno-Humanistyczna w Warszawie"
+            },
+            "satphotos": {
+                "title": "Zdjęcia satelitarne w szkole",
+                "by": "Centrum Nauki Kopernik"
+            },
+            "etl": {
+                "title": "Extract, Transform and Load",
+                "by": "Accenture Polska"
+            },
+            "wdi": {
+                "title": "Warszawskie Dni Informatyki 2021 - Uczestnictwo",
+                "by": "Fundacja Academic Partners"
+            },
+            "bl4s": {
+                "title": "Konkurs Beamline for Schools",
+                "by": "CERN"
+            }
+        },
+        "socialmedia": "Znajdź mnie na social mediach.",
+        "website": "Sprawdź moją stronę!"
+    },
+    "en": {}
+}
