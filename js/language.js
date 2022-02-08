@@ -12,11 +12,11 @@ fetch('js/translations.json')
 	let t = translations;
 
 	if( element.dataset.grandparent ) {
-		t = translations[ element.dataset.grandparent ];
+		t = t[ element.dataset.grandparent ];
 	}
 
 	if( element.dataset.parent ) {
-		t = translations[ element.dataset.parent ];
+		t = t[ element.dataset.parent ];
 	}
 
 	let x = "";
