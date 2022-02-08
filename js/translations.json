@@ -33,7 +33,10 @@
             "de": "Niemiecki"
         },
 		"hobbys": {
-			"title": "Zainteresowania"
+			"title": "Zainteresowania",
+			"volleyball": "Siatkówka",
+			"astronomy": "Astronomia",
+			"cybersecuroty": "Cyberbezpieczeństwo"
 		},
         "work": {
             "title": "Doświadczenie zawodowe",
