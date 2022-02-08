@@ -1,7 +1,7 @@
- if( localStorage.getItem("language") === null ) localStorage.setItem("language", "pl");
+if( localStorage.getItem("language") === null ) localStorage.setItem("language", "pl");
 
- fetch('js/translations.json')
- .then(response => {
+fetch('js/translations.json')
+.then(response => {
    return response.json();
 })
 .then(json => {
@@ -9,27 +9,27 @@
 })
 .then(translations => {
    document.querySelectorAll("[data-text]").forEach(element => {
-      let t = translations;
+	let t = translations;
 
-      if( element.dataset.grandparent ) {
-         t = translations[ element.dataset.grandparent ];
-      }
+	if( element.dataset.grandparent ) {
+		t = translations[ element.dataset.grandparent ];
+	}
 
-      if( element.dataset.parent ) {
-         t = translations[ element.dataset.parent ];
-      }
+	if( element.dataset.parent ) {
+		t = translations[ element.dataset.parent ];
+	}
 
-      let x = "";
+	let x = "";
 
-      if( element.innerHTML.indexOf("</i>") > 0  ){
-         x = element.innerHTML.slice( 0, element.innerHTML.indexOf("</i>") + 4 ) + ' ';
-      }
+	if( element.innerHTML.indexOf("</i>") > 0  ){
+		x = element.innerHTML.slice( 0, element.innerHTML.indexOf("</i>") + 4 ) + ' ';
+	}
 
-      element.innerHTML = x + t[ element.dataset.text ];
+	element.innerHTML = x + t[ element.dataset.text ];
    })
 });
  
- function changeLanguage(lang) {
+function changeLanguage(lang) {
     localStorage.setItem("language", lang);
  }
 
