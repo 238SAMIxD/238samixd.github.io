@@ -29,6 +29,10 @@
             "en": "Angielski",
             "de": "Niemiecki"
         },
+		"hobbys": {
+			"title": "Zainteresowania",
+			
+		},
         "work": {
             "title": "Doświadczenie zawodowe",
             "hexireal": {
