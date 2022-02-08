@@ -24,6 +24,7 @@
             "driver_licence": "Prawo jazdy kategorii B"
         },
         "languages": {
+			"title": "Języki",
             "pl": "Polski",
             "en": "Angielski",
             "de": "Niemiecki"
