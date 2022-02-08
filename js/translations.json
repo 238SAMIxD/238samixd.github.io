@@ -21,8 +21,11 @@
             "study": "Politechnika Gdańska",
             "direction": "Informatyka, 2. rok",
             "home": "Gdańsk, PL",
-            "driver_licence": "Prawo jazdy kategorii B"
         },
+		"skills": {
+			"title": "Umiejętności",
+			"driver_licence": "Prawo jazdy kategorii B"
+		},
         "languages": {
 			"title": "Języki",
             "pl": "Polski",
