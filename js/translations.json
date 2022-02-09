@@ -156,12 +156,12 @@
             "looking": "Junior Front-end Developer",
             "job": "Freelance Video Editor",
             "study": "Gdansk University of Technology",
-            "direction": "Computer Science, 2. year",
+            "direction": "Computer Science, 2nd year",
             "home": "Gdansk, PL"
         },
 		"skills": {
 			"title": "Skills",
-			"driver_licence": "B category driver licence"
+			"driver_licence": "B cat. driver licence"
 		},
         "languages": {
 			"title": "Languages",
@@ -193,7 +193,7 @@
                 "desc": "NA61 experiment with offline collaboration meeting in Geneve on 21-25.09.2020"
             },
             "relax": {
-                "title": "RELAX Zdworz Recreation Centre",
+                "title": "RELAX Zdworz Holliday Camping Resort",
                 "desc": "Grill and customer service"
             },
             "mvt": {
@@ -204,12 +204,12 @@
             "title": "Education",
             "pg": {
                 "title": "Gdansk University of Technology",
-                "desc": "Computer Science direction"
+                "desc": "Computer Science field"
             },
             "highschool": {
                 "title": "Marshal Stanislaw Malachowski High School in Plock",
-                "desc": "",
-                "desc2": "Academic profile with mathematics and physics extended"
+                "desc": "Secondary education",
+                "desc2": "Academic class with mathematics and physics extended"
             },
             "middleschool": {
                 "title": "Polskich Noblistow Middle School no 2 in Gostynin",
@@ -217,7 +217,7 @@
             },
             "primaryschool": {
                 "title": "Obroncow Westerplatte Primary School no 3 in Gostynin",
-                "desc": ""
+                "desc": "Primary education"
             }
         },
         "projects": {
