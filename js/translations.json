@@ -85,6 +85,9 @@
         },
         "projects": {
             "title": "Projekty",
+            "lanndingalso": {
+                "desc": "Landing page Amatorskiej Ligi Szachowej Online"
+            },
             "also": {
                 "title": "Amatorska Liga Szachowa Online",
                 "desc": "W realizacji"
@@ -222,6 +225,9 @@
         },
         "projects": {
             "title": "Projects",
+            "lanndingalso": {
+                "desc": "Online Chess Amateur League landing page"
+            },
             "also": {
                 "title": "Online Chess Amateur League",
                 "desc": "In progress"
