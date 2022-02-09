@@ -2,6 +2,12 @@ if( localStorage.getItem("language") === null ) localStorage.setItem("language",
 
 changeLanguage( localStorage.getItem("language") );
  
+document.querySelectorAll("[data-lang]").addEventListener( 'click', flagClick );
+
+function flagClick( e ) {
+	changeLanguage( e.currentTarget.dataset.lang );
+}
+ 
 function changeLanguage( lang ) {
     localStorage.setItem("language", lang);
 	
