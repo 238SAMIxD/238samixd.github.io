@@ -87,7 +87,7 @@
             "title": "Projekty",
             "also": {
                 "title": "Amatorska Liga Szachowa Online",
-                "desc": "Rozbudowany serwis internetowy służący do"
+                "desc": "W realizacji"
             },
             "tictactoe": {
                 "title": "Kółko i krzyżyk w JavaScript",
@@ -224,7 +224,7 @@
             "title": "Projects",
             "also": {
                 "title": "Online Chess Amateur League",
-                "desc": ""
+                "desc": "In progress"
             },
             "tictactoe": {
                 "title": "Tic Tac Toe in JavaScript",
