@@ -3,7 +3,7 @@ if( localStorage.getItem("language") === null ) localStorage.setItem("language",
 changeLanguage( localStorage.getItem("language") );
  
 document.querySelectorAll("[data-lang]").forEach(element => {
-	element..addEventListener( 'click', flagClick );
+	element.addEventListener( 'click', flagClick );
 };
 
 function flagClick( e ) {
