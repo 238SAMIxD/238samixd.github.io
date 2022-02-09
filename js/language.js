@@ -2,8 +2,8 @@ if( localStorage.getItem("language") === null ) localStorage.setItem("language",
 
 changeLanguage( localStorage.getItem("language") );
  
-function changeLanguage(lang) {
-    localStorage.setItem("language", lang);
+function changeLanguage( e ) {
+    localStorage.setItem("language", e.dataset.lang );
 	
 	fetch('js/translations.json')
 	.then(response => {
