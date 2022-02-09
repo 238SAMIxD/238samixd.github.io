@@ -4,7 +4,7 @@ changeLanguage( localStorage.getItem("language") );
  
 document.querySelectorAll("[data-lang]").forEach(element => {
 	element.addEventListener( 'click', flagClick );
-};
+});
 
 function flagClick( e ) {
 	changeLanguage( e.currentTarget.dataset.lang );
