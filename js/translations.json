@@ -136,5 +136,141 @@
         "socialmedia": "Znajdź mnie na social mediach.",
         "website": "Sprawdź moją stronę!"
     },
-    "en": {}
+    "en": {
+		"current": "Current",
+        "month": {
+            "jan": "Jan",
+            "feb": "Feb",
+            "mar": "Mar",
+            "apr": "Apr",
+            "may": "May",
+            "jun": "Jun",
+            "jul": "Jul",
+            "aug": "Aug",
+            "sep": "Sep",
+            "oct": "Oct",
+            "nov": "Nov",
+            "dec": "Dec"
+        },
+        "info": {
+            "looking": "Junior Front-end Developer",
+            "job": "Freelance Video Editor",
+            "study": "Gdansk Unioversity of Technology",
+            "direction": "Computer Science, 2. year",
+            "home": "Gdansk, PL"
+        },
+		"skills": {
+			"title": "Skills",
+			"driver_licence": "B category driver licence"
+		},
+        "languages": {
+			"title": "Languages",
+            "pl": "Polish",
+            "en": "English",
+            "de": "German"
+        },
+		"hobbys": {
+			"title": "Hobbys",
+			"volleyball": "Volleyball",
+			"astronomy": "Astronomy",
+			"cybersecurity": "Cybersecurity",
+			"esport": "E-sport",
+			"gamedev": "Gamedev",
+			"bots": "Creating bots for Discord and Twitch.tv"
+		},
+        "work": {
+            "title": "Work experience",
+            "hexireal": {
+                "title": "Freelance Video Editor",
+                "desc": "Video editor hired by Twitch streamer Hexireal"
+            },
+            "twitch": {
+                "title": "Twitch.tv Streamer",
+                "desc": "Affiliate streamer"
+            },
+            "cern": {
+                "title": "CERN internship",
+                "desc": "NA61 experiment with offline collaboration meeting in Geneve on 21-25.09.2020"
+            },
+            "relax": {
+                "title": "RELAX Zdworz Recreation Centre",
+                "desc": "Grill and customer service"
+            },
+            "mvt": {
+                "desc": "Receiver"
+            }
+        },
+        "edu": {
+            "title": "Education",
+            "pg": {
+                "title": "Gdansk Unioversity of Technology",
+                "desc": "Computer Science direction"
+            },
+            "highschool": {
+                "title": "Marshal Stanislaw Malachowski High School in Plock",
+                "desc": "",
+                "desc2": "Academic profile with mathmetatics and phycics extended"
+            },
+            "middleschool": {
+                "title": "Polskich Noblistow Middle School no 2 in Gostynin",
+                "desc": "Mathematics and IT class"
+            },
+            "primaryschool": {
+                "title": "Obroncow Westerplatte Primary School no 3in Gostynin",
+                "desc": ""
+            }
+        },
+        "projects": {
+            "title": "Projects",
+            "also": {
+                "title": "Online Chess Amateur League",
+                "desc": ""
+            },
+            "tictactoe": {
+                "title": "Tic Tac Toe in JavaScript",
+                "desc": "Simple Tic Tac Toe Game"
+            },
+            "smartphonejs": {
+                "title": "Smartphone payment application | CSS + JS | working + sounds",
+                "desc": "Further development of the previous project"
+            },
+            "smartphonecss": {
+                "title": "Smartphone payment application | CSS only",
+                "desc": "Smartphone payment application project to make and receive payments made with HTML and CSS. Created for Hack4Lem hackatho"
+            }
+        },
+        "certs": {
+            "title": "Certificates",
+            "certificate": "Certificate",
+            "jsbasics": {
+                "title": "Programming in JavaScript Basics",
+                "by": "University of Szczecin"
+            },
+            "aibasics": {
+                "title": "Artificial Intelligence Basics",
+                "by": "Information Processing Center  – State Research Institute "
+            },
+            "webdesign": {
+                "title": "Website Design",
+                "by": "Academy of Humanities and Economics in Warsaw "
+            },
+            "satphotos": {
+                "title": "Satellite pictures in school",
+                "by": "Kopernik Science Center"
+            },
+            "etl": {
+                "by": "Accenture Poland"
+            },
+            "wdi": {
+                "title": "Warszaws Days of Informatics 2021 - Attendaee",
+                "by": "Academic Partners Foundation"
+            },
+            "bl4s": {
+                "title": "Beamline for Schools competition",
+                "by": "CERN"
+            }
+        },
+        "socialmedia": "Find me on social media.",
+        "website": "Check out my website!"
+	}
 }
