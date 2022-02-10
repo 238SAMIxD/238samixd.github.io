@@ -9,6 +9,10 @@ h6 {
     font-family: "Roboto", sans-serif;
 }
 
+.dark-bg {
+	backhground: #2C3B42;
+}
+
 .change {
     position: fixed;
     top: 1%;
