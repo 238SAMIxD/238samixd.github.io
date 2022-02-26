@@ -112,6 +112,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "keyshortcuts": {
+                "title": "Skróty klawiszowe"
+            },
             "jsbasics": {
                 "title": "Podstawy programowania w języku JavaScript",
                 "by": "Uniwersytet Szczeciński"
@@ -256,6 +259,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "keyshortcuts": {
+                "title": "Key shortcuts"
+            },
             "jsbasics": {
                 "title": "Programming in JavaScript Basics",
                 "by": "University of Szczecin"
