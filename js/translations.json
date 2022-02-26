@@ -112,6 +112,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "securepassword": {
+                "title": "Jak stworzyć bezpieczne hasło"
+            },
             "keyshortcuts": {
                 "title": "Skróty klawiszowe"
             },
@@ -259,6 +262,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "securepassword": {
+                "title": "How to create secure password"
+            },
             "keyshortcuts": {
                 "title": "Key shortcuts"
             },
