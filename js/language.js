@@ -1,4 +1,4 @@
-if( localStorage.getItem("language") === null ) localStorage.setItem("language", "pl");
+if( localStorage.getItem("language") === null ) localStorage.setItem("language", "en");
 
 changeLanguage( localStorage.getItem("language") );
  
