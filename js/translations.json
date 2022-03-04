@@ -61,7 +61,7 @@
             },
             "relax": {
                 "title": "Ośrodek Wypoczynkowy RELAX w Zdworzu",
-                "desc": "Praca przy grillu i obsługa klientów przy kasie"
+                "desc": "Praca przy grillu i obsługa klientów przy kasie fiskalnej"
             },
             "mazovia": {
 				"title": "Mazovia Gostynin (poprzednio AS Gostynin)",
@@ -219,7 +219,7 @@
             },
             "relax": {
                 "title": "RELAX Zdworz Holiday Camping Resort",
-                "desc": "Grill and customer service"
+                "desc": "Grill and customer service. Using cash register and interacting with clients"
             },
             "mazovia": {
 				"title": "Mazovia Gostynin (AS Gostynin before)",
