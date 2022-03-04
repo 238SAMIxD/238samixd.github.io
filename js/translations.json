@@ -53,7 +53,7 @@
             },
             "twitch": {
                 "title": "Streamer na platformie Twitch.tv",
-                "desc": "Status towarzysza i 7 tysięcy wyświetleń kanału"
+                "desc": "Status towarzysza i 7 tysięcy wyświetleń kanału. Transmisja głównie programowania oraz gier typu League of Legends lub innych z interakcją zz widownią"
             },
             "cern": {
                 "title": "Staż w CERN",
@@ -207,7 +207,7 @@
             },
             "twitch": {
                 "title": "Twitch.tv Streamer",
-                "desc": "Affiliate streamer with 7k views of the channel"
+                "desc": "Affiliate streamer with 7k views of the channel. Streaming mostly programming and games such like League of Legends or other with interactions with audience"
             },
             "cern": {
                 "title": "CERN internship",
