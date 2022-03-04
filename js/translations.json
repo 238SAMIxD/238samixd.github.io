@@ -53,7 +53,7 @@
             },
             "twitch": {
                 "title": "Streamer na platformie Twitch.tv",
-                "desc": "Status towarzysza"
+                "desc": "Status towarzysza i 7 tysięcy wyświetleń kanału"
             },
             "cern": {
                 "title": "Staż w CERN",
@@ -207,7 +207,7 @@
             },
             "twitch": {
                 "title": "Twitch.tv Streamer",
-                "desc": "Affiliate streamer"
+                "desc": "Affiliate streamer with 7k views of the channel"
             },
             "cern": {
                 "title": "CERN internship",
