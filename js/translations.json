@@ -65,10 +65,10 @@
             },
             "mazovia": {
 				"title": "Mazovia Gostynin (poprzednio AS Gostynin)",
-                "desc": "Libero"
+                "desc": "Libero z nagrodą \"Najlepszy zawodnik\" w Turnieju o Puchar Burmistrza Miasta Gostynina"
             },
             "mvt": {
-                "desc": "Przyjmujący"
+                "desc": "Przyjmujący z nagrodą \"Wyróżniający się zawodnik\" XV Turnieju z Okazji Święta Niepodległości o Puchar Dyrektora Zespołu Szkół nr 2 w Płońsku pod Patronatem Starosty Płońskiego"
             }
         },
         "edu": {
@@ -223,10 +223,10 @@
             },
             "mazovia": {
 				"title": "Mazovia Gostynin (AS Gostynin before)",
-                "desc": "Libero"
+                "desc": "Libero with Best Player of the Gostynin Mayor's Cup Men's Tournament award"
             },
             "mvt": {
-                "desc": "Receiver"
+                "desc": "Receiver with Extraordinary Player of the Plonsk Independace Day's Men's Tournament"
             }
         },
         "edu": {
