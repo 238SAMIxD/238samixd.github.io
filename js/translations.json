@@ -57,7 +57,7 @@
             },
             "cern": {
                 "title": "Staż w CERN",
-                "desc": "Eksperyment NA61 wraz ze spotkaniem offline w Genewie w dniach 21-25.09.2020 roku"
+                "desc": "Eksperyment NA61 wraz ze spotkaniem offline w Genewie w dniach 21-25.09.2020 roku. Pomoc przy aplikacji wizualizującej tor lotu cząstek na podstawie danych z detektora"
             },
             "relax": {
                 "title": "Ośrodek Wypoczynkowy RELAX w Zdworzu",
@@ -215,7 +215,7 @@
             },
             "cern": {
                 "title": "CERN internship",
-                "desc": "NA61 experiment with offline collaboration meeting in Geneve on 21-25.09.2020"
+                "desc": "NA61 experiment with offline collaboration meeting in Geneve on 21-25.09.2020. Helping in programming application visualizing particles paths based on detectors data"
             },
             "relax": {
                 "title": "RELAX Zdworz Holiday Camping Resort",
