@@ -24,7 +24,8 @@
         },
 		"skills": {
 			"title": "Umiejętności",
-			"driver_licence": "Prawo jazdy kategorii B"
+			"driver_licence": "Prawo jazdy kategorii B",
+			"learning": "Szybka nauka i zapamiętywanie"
 		},
         "languages": {
 			"title": "Języki",
@@ -182,7 +183,8 @@
         },
 		"skills": {
 			"title": "Skills",
-			"driver_licence": "B cat. driver licence"
+			"driver_licence": "B cat. driver licence",
+			"learning": "Quick learning and remembering"
 		},
         "languages": {
 			"title": "Languages",
