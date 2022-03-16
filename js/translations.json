@@ -54,7 +54,7 @@
             },
             "twitch": {
                 "title": "Streamer na platformie Twitch.tv",
-                "desc": "Status towarzysza i 7 tysięcy wyświetleń kanału. Transmisja głównie programowania oraz gier typu League of Legends lub innych z interakcją zz widownią"
+                "desc": "Status towarzysza i 7 tysięcy wyświetleń kanału. Transmisja głównie programowania oraz gier typu League of Legends lub innych z interakcją z widownią"
             },
             "cern": {
                 "title": "Staż w CERN",
@@ -62,7 +62,7 @@
             },
             "relax": {
                 "title": "Ośrodek Wypoczynkowy RELAX w Zdworzu",
-                "desc": "Praca przy grillu i obsługa klientów przy kasie fiskalnej"
+                "desc": "Praca przy grillu i obsługa klientów przy kasie fiskalnej. Stworzenie własnej pocztówki"
             },
             "mazovia": {
 				"title": "Mazovia Gostynin (poprzednio AS Gostynin)",
@@ -221,7 +221,7 @@
             },
             "relax": {
                 "title": "RELAX Zdworz Holiday Camping Resort",
-                "desc": "Grill and customer service. Using cash register and interacting with clients"
+                "desc": "Grill and customer service. Using cash register and interacting with clients. Also postcard created"
             },
             "mazovia": {
 				"title": "Mazovia Gostynin (AS Gostynin before)",
