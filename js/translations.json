@@ -117,6 +117,10 @@
             "smartphonecss": {
                 "title": "Aplikacja mobilna do płatności zrobiona tylko w CSS",
                 "desc": "Projekt aplikacji mobilnej przeznaczonej do przyjmowania oraz realizowania płatności zaprojektowana z pomocą samego HTML i CSS na hackathon Hack4Lem"
+            },
+            "postcard": {
+                "title": "Projekt pocztówki",
+                "desc": "Projekt pocztówki stworzonej dla Ośrodka Wypoczynkowego RELAX w Zdworzu"
             }
         },
         "certs": {
