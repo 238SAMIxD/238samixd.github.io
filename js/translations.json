@@ -31,7 +31,8 @@
 			"title": "Języki",
             "pl": "Polski",
             "en": "Angielski",
-            "de": "Niemiecki"
+            "de": "Niemiecki",
+			"native": "Ojczysty"
         },
 		"hobbys": {
 			"title": "Zainteresowania",
@@ -190,7 +191,8 @@
 			"title": "Languages",
             "pl": "Polish",
             "en": "English",
-            "de": "German"
+            "de": "German",
+			"native": "Native"
         },
 		"hobbys": {
 			"title": "Hobbys",
