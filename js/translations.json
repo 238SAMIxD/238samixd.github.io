@@ -281,6 +281,10 @@
             "smartphonecss": {
                 "title": "Smartphone payment application | CSS only",
                 "desc": "Smartphone payment application project to make and receive payments made with HTML and CSS. Created for Hack4Lem hackathon"
+            },
+            "postcard": {
+                "title": "Postcard project",
+                "desc": "Postcard project created for RELAX Zdworz Holiday Camping Resort"
             }
         },
         "certs": {
