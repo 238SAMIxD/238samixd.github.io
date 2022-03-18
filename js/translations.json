@@ -95,6 +95,14 @@
         },
         "projects": {
             "title": "Projekty",
+			"ytapex": {
+				"title": "Apex Legends - Playlista na YouTube",
+				"desc": "Playlista z filmikami ze śmiesznych momentów edytowanych w późniejszym czasie"
+			},
+			"yteu4": {
+				"title": "EU4! MP! Switzerland campaign! - Playlista na YouTube",
+				"desc": "Playlista z pierwszymi edytowanymi filmikami"
+			},
             "lanndingalso": {
                 "desc": "Landing page Amatorskiej Ligi Szachowej Online"
             },
@@ -259,6 +267,14 @@
         },
         "projects": {
             "title": "Projects",
+			"ytapex": {
+				"title": "Apex Legends - YouTube Playlist",
+				"desc": "Playlist with Funny Moments videos edited further on"
+			},
+			"yteu4": {
+				"title": "EU4! MP! Switzerland campaign! - YouTube Playlist",
+				"desc": "Playlist with the very first videos edited"
+			},
             "lanndingalso": {
                 "desc": "Online Chess Amateur League landing page"
             },
