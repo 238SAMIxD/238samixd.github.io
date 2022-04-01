@@ -134,6 +134,10 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "wdi22": {
+                "title": "CERTYFIKAT UCZESTNICTWA w konferencji Warszawskie Dni Informatyki 2022",
+				"by": "Fundacja Academic Partners"
+            },
             "securepassword": {
                 "title": "Jak stworzyć bezpieczne hasło"
             },
@@ -306,6 +310,10 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "wdi22": {
+                "title": "Warsaw Days of Informatics Conference 2022 Attendaee",
+				"by": "Academic Partners Foundation"
+            },
             "securepassword": {
                 "title": "How to create a secure password"
             },
@@ -332,7 +340,7 @@
                 "by": "Accenture Poland"
             },
             "wdi": {
-                "title": "Warsaw Days of Informatics 2021 - Attendaee",
+                "title": "Warsaw Days of Informatics Conference 2021 Attendaee",
                 "by": "Academic Partners Foundation"
             },
             "bl4s": {
