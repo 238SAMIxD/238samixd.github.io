@@ -96,6 +96,10 @@
         "projects": {
             "title": "Projekty",
 			"preview: "Podgląd",
+			"virtuslabint": {
+				"title": "Zadanie rekrutacyjne na staż w VirtusLab",
+				"desc": "Generowanie pokemonów do wyświetlania pokedexu z pomocą darmowego API PokeApi https://pokeapi.co/"
+			},
 			"profilsoftint": {
 				"title": "Zadanie rekrutacyjne na staż w Profil Software",
 				"desc": "Generowanie losowego użytkownika z pomocą darmowego API RandomUser https://randomuser.me/"
@@ -277,6 +281,10 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
+			"virtuslabint": {
+				"title": "VirtusLab Internship Task",
+				"desc": "Using free API to generate pokemons data from https://pokeapi.co/"
+			},
 			"profilsoftint": {
 				"title": "Profil Software Internship Task",
 				"desc": "Using free API to generate random user data from https://randomuser.me/"
