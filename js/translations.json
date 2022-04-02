@@ -95,6 +95,10 @@
         },
         "projects": {
             "title": "Projekty",
+			"profilsoftint": {
+				"title": "Zadanie rekrutacyjne na staż w Profil Software",
+				"desc": "Generowanie losowego użytkownika z pomocą darmowego API RandomUser https://randomuser.me/"
+			},
 			"ytapex": {
 				"title": "Apex Legends - Playlista na YouTube",
 				"desc": "Playlista z filmikami ze śmiesznych momentów edytowanych w późniejszym czasie"
@@ -271,6 +275,10 @@
         },
         "projects": {
             "title": "Projects",
+			"profilsoftint": {
+				"title": "Profil Software Internship Task",
+				"desc": "Using free API to generate random user data from https://randomuser.me/"
+			},
 			"ytapex": {
 				"title": "Apex Legends - YouTube Playlist",
 				"desc": "Playlist with Funny Moments videos edited further on"
