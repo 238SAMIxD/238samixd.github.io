@@ -95,7 +95,7 @@
         },
         "projects": {
             "title": "Projekty",
-			"preview: "Podgląd",
+			"preview": "Podgląd",
 			"virtuslabint": {
 				"title": "Zadanie rekrutacyjne na staż w VirtusLab",
 				"desc": "Generowanie pokemonów do wyświetlania pokedexu z pomocą darmowego API PokeApi https://pokeapi.co/"
