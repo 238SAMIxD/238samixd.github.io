@@ -95,6 +95,7 @@
         },
         "projects": {
             "title": "Projekty",
+			"preview: "Podgląd",
 			"profilsoftint": {
 				"title": "Zadanie rekrutacyjne na staż w Profil Software",
 				"desc": "Generowanie losowego użytkownika z pomocą darmowego API RandomUser https://randomuser.me/"
@@ -275,6 +276,7 @@
         },
         "projects": {
             "title": "Projects",
+			"preview": "Preview",
 			"profilsoftint": {
 				"title": "Profil Software Internship Task",
 				"desc": "Using free API to generate random user data from https://randomuser.me/"
