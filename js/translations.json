@@ -143,6 +143,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "4dev": {
+                "title": "4developers 2022 CERTYFIKAT UCZESTNICTWA"
+            },
             "wdi22": {
                 "title": "CERTYFIKAT UCZESTNICTWA w konferencji Warszawskie Dni Informatyki 2022",
 				"by": "Fundacja Academic Partners"
@@ -328,6 +331,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "4dev": {
+                "title": "4developers 2022 CERTIFICATE OF ATTENDANCE"
+            },
             "wdi22": {
                 "title": "Warsaw Days of Informatics Conference 2022 Attendaee",
 				"by": "Academic Partners Foundation"
