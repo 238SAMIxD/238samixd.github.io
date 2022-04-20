@@ -96,6 +96,10 @@
         "projects": {
             "title": "Projekty",
 			"preview": "Podgląd",
+			"clash": {
+				"title": "Powtórki League of Legends Puchar Freljordu Clash Dzień 4 Tier II",
+				"desc": "Powtórki z meczów w League of Legends Puchar Freljordu Dnia 4 w Tierze II nagrane z pomocą League Director oraz kamery pierwszoosobowej"
+			},
 			"virtuslabint": {
 				"title": "Zadanie rekrutacyjne na staż w VirtusLab",
 				"desc": "Generowanie pokemonów do wyświetlania pokedexu z pomocą darmowego API PokeApi https://pokeapi.co/"
@@ -284,6 +288,10 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
+			"clash": {
+				"title": "League of Legends Freljord Cup Clash Day 4 Tier II Highlights",
+				"desc": "Highlights from the League of Legends Freljord Clash Day 4 Tier II games recorded by League Director with FPS camera included"
+			},
 			"virtuslabint": {
 				"title": "VirtusLab Internship Task",
 				"desc": "Using free API to generate pokemons data from https://pokeapi.co/"
