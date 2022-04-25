@@ -96,6 +96,10 @@
         "projects": {
             "title": "Projekty",
 			"preview": "Podgląd",
+			"devlog": {
+				"title": "Welcome to the University: Student's Revenge - Strona z Devlogiem",
+				"desc": "Prosta strona internetowa z kilkoma podstronami do ładowania i udostępniamia postów. Wywoływanie API and wysyłanie zapytań do webhooka Discorda."
+			},
 			"clash": {
 				"title": "Powtórki League of Legends Puchar Freljordu Clash Dzień 4 Tier II",
 				"desc": "Powtórki z meczów w League of Legends Puchar Freljordu Dnia 4 w Tierze II nagrane z pomocą League Director oraz kamery pierwszoosobowej"
@@ -288,6 +292,10 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
+			"devlog": {
+				"title": "Welcome to the University: Student's Revenge - Devlog Page",
+				"desc": "Simple several pages website to load and post data. Calling API and fetching request to Discord webhook."
+			},
 			"clash": {
 				"title": "League of Legends Freljord Cup Clash Day 4 Tier II Highlights",
 				"desc": "Highlights from the League of Legends Freljord Clash Day 4 Tier II games recorded by League Director with FPS camera included"
