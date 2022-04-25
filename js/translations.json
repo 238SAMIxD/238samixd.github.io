@@ -96,6 +96,10 @@
         "projects": {
             "title": "Projekty",
 			"preview": "Podgląd",
+			"onwelorec": {
+				"title": "Zadanie Rekrutacyjne Onwelo",
+				"desc": "Własna wersja strony dokumentacji https://man7.org/linux/man-pages/man1/ls.1.html"
+			},
 			"devlog": {
 				"title": "Welcome to the University: Student's Revenge - Strona z Devlogiem",
 				"desc": "Prosta strona internetowa z kilkoma podstronami do ładowania i udostępniamia postów. Wywoływanie API and wysyłanie zapytań do webhooka Discorda."
@@ -292,6 +296,10 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
+			"onwelorec": {
+				"title": "Onwelo Recruitment Task",
+				"desc": "Own version of Linux documentation page https://man7.org/linux/man-pages/man1/ls.1.html"
+			},
 			"devlog": {
 				"title": "Welcome to the University: Student's Revenge - Devlog Page",
 				"desc": "Simple several pages website to load and post data. Calling API and fetching request to Discord webhook."
