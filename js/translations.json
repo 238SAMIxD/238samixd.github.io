@@ -49,6 +49,10 @@
         },
         "work": {
             "title": "Doświadczenie zawodowe",
+            "visionary-projections-studio": {
+                "title": "Front-End Engineer",
+                "desc": "Stworzenie serwera Discord: kanały, role, uprawnienia, boty, webhooki. Rozwój własnego bota. W przyszłości utworzenie oraz design strony internetowej i firmowego profili na LinkedIn"
+            },
             "hexireal": {
                 "title": "Edytor wideo na zlecenie",
                 "desc": "Zatrudniony na zlecenie streamera Hexireal z Twitcha. Użycie Adobe Premiere Pro oraz darmowych zasobów ze stron internetowych"
@@ -249,6 +253,10 @@
         },
         "work": {
             "title": "Work experience",
+            "visionary-projections-studio": {
+                "title": "Front-End Engineer",
+                "desc": "Setting up Discord server: channels, roles, permissions, bots, webhooks. Developing own bot. In the future creating and designing website and company LinkedIn profile"
+            },
             "hexireal": {
                 "title": "Freelance Video Editor",
                 "desc": "Video editor hired by Twitch streamer Hexireal. Using Adobe Premiere Pro and free assets found online"
