@@ -129,7 +129,7 @@
 				"desc": "Playlista z pierwszymi edytowanymi filmikami"
 			},
             "lanndingalso": {
-                "desc": "Landing page Amatorskiej Ligi Szachowej Online"
+                "desc": "Landing page Amatorskiej Ligi Szachowej Online z użyciem HTML i CSS"
             },
             "also": {
                 "title": "Amatorska Liga Szachowa Online",
@@ -137,11 +137,11 @@
             },
             "flappybird": {
                 "title": "Flappy Bird w JavaScript",
-                "desc": "Prosta gra Flappy Bird w czystym JavaScripcie"
+                "desc": "Prosta gra Flappy Bird z użyciem HTML, CSS oraz czystego JavaScriptu"
             },
             "tictactoe": {
                 "title": "Kółko i krzyżyk w JavaScript",
-                "desc": "Prosta gra w kółko i krzyżyk w czystym JavaScripcie"
+                "desc": "Prosta gra w kółko i krzyżyk z użyciem HTML, CSS oraz czystego JavaScriptu"
             },
             "smartphonejs": {
                 "title": "Aplikacja na smartphone zrobiona w CSS i JS. Funkcjonalność i dźwięki",
@@ -266,7 +266,7 @@
                 "desc": "Affiliate streamer with 7k views of the channel. Streaming mostly programming and games such like League of Legends or other with interactions with audience"
             },
             "cern": {
-                "title": "CERN internship",
+                "title": "CERN Junior TypeScript Developer Internship",
                 "desc": "NA61 experiment with offline collaboration meeting in Geneve on 21-25.09.2020. Helping in programming application visualizing particles paths based on detectors data"
             },
             "relax": {
@@ -333,7 +333,7 @@
 				"desc": "Playlist with the very first videos edited"
 			},
             "lanndingalso": {
-                "desc": "Online Chess Amateur League landing page"
+                "desc": "Online Chess Amateur League landing page in HTML and CSS"
             },
             "also": {
                 "title": "Online Chess Amateur League",
@@ -341,11 +341,11 @@
             },
             "flappybird": {
                 "title": "Flappy Bird in JavaScript",
-                "desc": "Simple Flappy Bird Game"
+                "desc": "Simple Flappy Bird Game created using HTML, CSS and plain JavaScript"
             },
             "tictactoe": {
                 "title": "Tic Tac Toe in JavaScript",
-                "desc": "Simple Tic Tac Toe Game"
+                "desc": "Simple Tic Tac Toe Game created using HTML, CSS and plain JavaScript"
             },
             "smartphonejs": {
                 "title": "Smartphone payment application | CSS + JS | working + sounds",
