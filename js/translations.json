@@ -249,7 +249,7 @@
 		},
         "businesscard": {
             "title": "Business Card",
-            "info": "Computer Science student, future Front-End Developer with further developmnet in Back-End so is Full-Stack. I mostly use those programming languages: C++, JavaScript, Java, PHP, SQL, C#. I have also created simple mobile applications as well as I am editing some videos. Nowadays besides university classes I am making fully functional website service of the chess tournament with register, login, signing systems and using external APIs and what is more my own REST API that will allow other developers accessing data about games and players in their apps, is being created. I am additionally learning Unity engine to develop and publish my very first video game in horror/hacking type."
+            "info": "Computer Science student, future Front-End Developer with further development in Back-End so is Full-Stack. I mostly use those programming languages: C++, JavaScript, Java, PHP, SQL, C#. I have also created simple mobile applications as well as I am editing some videos. Nowadays besides university classes I am making fully functional website service of the chess tournament with register, login, signing systems and using external APIs and what is more my own REST API that will allow other developers accessing data about games and players in their apps, is being created. I am additionally learning Unity engine to develop and publish my very first video game in horror/hacking type."
         },
         "work": {
             "title": "Work experience",
