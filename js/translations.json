@@ -159,6 +159,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "git": {
+                "title": "Poradnik Git dla Początkujących: Master Version Control"
+            },
             "4dev": {
                 "title": "4developers 2022 CERTYFIKAT UCZESTNICTWA"
             },
