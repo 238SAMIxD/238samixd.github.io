@@ -190,6 +190,10 @@ h6 {
   width: 0;
 }
 
+.highlight {
+	opacity: .8 !important;
+}
+
 @media (max-width: 1165px) {
   .certs-grid {
     grid-template-columns: repeat(2, 1fr);
