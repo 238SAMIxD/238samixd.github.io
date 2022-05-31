@@ -363,6 +363,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "git": {
+                "title": "Git Tutorial for Beginners: Master Version Control"
+            },
             "4dev": {
                 "title": "4developers 2022 CERTIFICATE OF ATTENDANCE"
             },
