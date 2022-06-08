@@ -3,5 +3,6 @@ function loadCompanyLogos() {
 
     divs.forEach( div => {
         div.style.backgroundImage = `url("${div.dataset.src}")`;
+        console.log(div)
     });
 }
