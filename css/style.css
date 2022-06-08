@@ -222,7 +222,8 @@ h6 {
 .company-logo::after {
   content: attr(data-title);
   bottom: 100%;
-  inset-inline: 0;
+  right: 0;
+  width: max-content;
 }
 
 @media (max-width: 1165px) {
