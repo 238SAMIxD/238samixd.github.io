@@ -218,16 +218,17 @@ h6 {
 }
 
 .company-logo::before {
-  transform: translateX(50%) scaleY(0);
+  bottom: 100%;
+  transform: translateX(-50%) scaleY(0);
   transition: transform 50ms ease-in-out;
   clip-path: polygon(50% 100%, 0 0, 100% 0);
   width: 1rem;
-  aspect-ratio: 1/2;
+  aspect-ratio: 2;
 }
 
 .company-logo::after {
   content: attr(data-title);
-  bottom: 100%;
+  bottom: calc(100% + .5rem);
   right: 0;
   width: max-content;
   padding: .25rem .5rem;
@@ -235,6 +236,10 @@ h6 {
   transform: scaleY(0);
   transition: transform 100ms ease-in-out;
   transform-origin: bottom;
+}
+
+.company-logo:hover::before {
+  transform: transformX(-50%) scaleY(1);
 }
 
 .company-logo:hover::after {
