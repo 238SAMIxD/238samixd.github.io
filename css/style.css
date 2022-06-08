@@ -226,6 +226,7 @@ h6 {
   width: max-content;
   transform: scaleY(0);
   transition: transform 100ms ease-in-out;
+  transform-origin: bottom;
 }
 
 .company-logo:hover::after {
