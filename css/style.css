@@ -200,6 +200,7 @@ h6 {
 
 .company-logo {
   position: absolute;
+  top: 0;
   right: 1em;
   width: 5em;
 }
