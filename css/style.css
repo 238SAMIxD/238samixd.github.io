@@ -220,6 +220,7 @@ h6 {
 
 .company-logo::before {
   bottom: 100%;
+  left: 50%;
   transform: translateX(-50%) scaleY(0);
   transition: transform 50ms ease-in-out;
   clip-path: polygon(50% 100%, 0 0, 100% 0);
