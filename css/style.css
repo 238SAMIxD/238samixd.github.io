@@ -203,6 +203,7 @@ h6 {
   top: 0;
   right: 1em;
   width: 5em;
+  aspect-ratio: 1;
   cursor: pointer;
 }
 
