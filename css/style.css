@@ -194,6 +194,16 @@ h6 {
 	opacity: .8 !important;
 }
 
+.w3-container {
+  position: relative;
+}
+
+.company-logo {
+  position: absolute;
+  right: 1em;
+  width: 5em;
+}
+
 @media (max-width: 1165px) {
   .certs-grid {
     grid-template-columns: repeat(2, 1fr);
