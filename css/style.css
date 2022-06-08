@@ -203,6 +203,7 @@ h6 {
   top: 0;
   right: 1em;
   width: 5em;
+  cursor: pointer;
 }
 
 @media (max-width: 1165px) {
