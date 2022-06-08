@@ -215,6 +215,7 @@ h6 {
   content: '';
   position: absolute;
   background-color: var(--bg-clr);
+  transform-origin: bottom;
 }
 
 .company-logo::before {
@@ -235,7 +236,6 @@ h6 {
   border-radius: .25rem;
   transform: scaleY(0);
   transition: transform 100ms ease-in-out;
-  transform-origin: bottom;
 }
 
 .company-logo:hover::before {
