@@ -207,6 +207,15 @@ h6 {
   cursor: pointer;
 }
 
+.company-logo::before {
+  position: absolute;
+  inset: 0;
+  background-image: attr(data-src);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 @media (max-width: 1165px) {
   .certs-grid {
     grid-template-columns: repeat(2, 1fr);
