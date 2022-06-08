@@ -199,6 +199,7 @@ h6 {
 }
 
 .company-logo {
+  --bg-clr: #516e7b;
   position: absolute;
   top: 0;
   right: 1em;
@@ -213,10 +214,15 @@ h6 {
 .company-logo::before, .company-logo::after {
   content: '';
   position: absolute;
+  background-color: var(--bg-clr);
 }
 
 .company-logo::before {
-  background-color: beige;
+  transform: translateX(50%) scaleY(0);
+  transition: transform 50ms ease-in-out;
+  clip-path: polygon(50% 100%, 0 0, 100% 0);
+  width: 1rem;
+  aspect-ratio: 1/2;
 }
 
 .company-logo::after {
@@ -225,7 +231,6 @@ h6 {
   right: 0;
   width: max-content;
   padding: .25rem .5rem;
-  background-color: #516e7b;
   border-radius: .25rem;
   transform: scaleY(0);
   transition: transform 100ms ease-in-out;
