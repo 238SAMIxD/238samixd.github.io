@@ -207,13 +207,22 @@ h6 {
   cursor: pointer;
 }
 
-.company-logo::before {
+.company-logo::before, .company-logo::after {
+  content: '';
   position: absolute;
+}
+
+.company-logo::before {
   inset: 0;
-  background-image: attr(data-src);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.company-logo::after {
+  content: attr(data-title);
+  bottom: 100%;
+  inset-inline: 0;
 }
 
 @media (max-width: 1165px) {
