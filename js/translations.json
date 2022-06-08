@@ -49,6 +49,10 @@
         },
         "work": {
             "title": "Doświadczenie zawodowe",
+            "opiekunowie-runeterry": {
+                "title": "Wolontariusz",
+                "desc": "Grupa entuzjastów zajmująca się organizacją wydarzeń i konkursów dla polskiej społeczności Riot Games"
+            },
             "visionary-projections-studio": {
                 "title": "Front-End Engineer",
                 "desc": "Stworzenie serwera Discord: kanały, role, uprawnienia, boty, webhooki. Rozwój własnego bota. Utworzenie oraz design strony internetowej i firmowego profili na LinkedIn"
@@ -256,6 +260,10 @@
         },
         "work": {
             "title": "Work experience",
+            "opiekunowie-runeterry": {
+                "title": "Volunteer",
+                "desc": "Enthusiastic group organising events and contests for Polish Riot Games community"
+            },
             "visionary-projections-studio": {
                 "title": "Front-End Engineer",
                 "desc": "Setting up Discord server: channels, roles, permissions, bots, webhooks. Developing own bot. Creating and designing website and company LinkedIn profile"
