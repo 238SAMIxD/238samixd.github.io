@@ -239,7 +239,7 @@ h6 {
 }
 
 .company-logo:hover::before {
-  transform: transformX(-50%) scaleY(1);
+  transform: translateX(-50%) scaleY(1);
 }
 
 .company-logo:hover::after {
