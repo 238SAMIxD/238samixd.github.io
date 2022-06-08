@@ -224,6 +224,8 @@ h6 {
   bottom: 100%;
   right: 0;
   width: max-content;
+  background-color: #516e7b;
+  border-radius: .25rem;
   transform: scaleY(0);
   transition: transform 100ms ease-in-out;
   transform-origin: bottom;
