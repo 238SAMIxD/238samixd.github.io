@@ -2,8 +2,8 @@ if( localStorage.getItem("language") === null ) localStorage.setItem("language",
 
 changeLanguage( localStorage.getItem("language") );
  
-document.querySelectorAll("[data-lang]").forEach(element => {
-	element.addEventListener( 'click', flagClick );
+document.querySelectorAll("[data-lang]").forEach(e => {
+	e.addEventListener( 'click', flagClick );
 });
 
 function flagClick( e ) {
@@ -21,24 +21,24 @@ function changeLanguage( lang ) {
 	   return json[ localStorage.getItem("language") ];
 	})
 	.then(translations => {
-	   document.querySelectorAll("[data-text]").forEach(element => {
+	   document.querySelectorAll("[data-text]").forEach(e => {
 		let t = translations;
 
-		if( element.dataset.grandparent ) {
-			t = t[ element.dataset.grandparent ];
+		if( e.dataset.grandparent ) {
+			t = t[ e.dataset.grandparent ];
 		}
 
-		if( element.dataset.parent ) {
-			t = t[ element.dataset.parent ];
+		if( e.dataset.parent ) {
+			t = t[ e.dataset.parent ];
 		}
 
 		let x = "";
 
-		if( element.innerHTML.indexOf("</i>") > 0  ){
-			x = element.innerHTML.slice( 0, element.innerHTML.indexOf("</i>") + 4 ) + ' ';
+		if( e.innerHTML.indexOf("</i>") > 0  ){
+			x = e.innerHTML.slice( 0, e.innerHTML.indexOf("</i>") + 4 ) + ' ';
 		}
 
-		element.innerHTML = x + t[ element.dataset.text ];
+		e.innerHTML = x + t[ e.dataset.text ];
 	   })
 	});
  }
