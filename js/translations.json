@@ -52,8 +52,7 @@
             "opiekunowie-runeterry": {
                 "name": "Opiekunowie Runeterry",
                 "title": "Wolontariusz",
-                "desc": "Grupa entuzjastów zajmująca się organizacją wydarzeń i konkursów dla polskiej społeczności Riot Games",
-				"img": "or.png"
+                "desc": "Grupa entuzjastów zajmująca się organizacją wydarzeń i konkursów dla polskiej społeczności Riot Games"
             },
             "visionary-projections-studio": {
                 "name": "Visionary Projections Studio",
@@ -273,7 +272,6 @@
                 "name": "Opiekunowie Runeterry",
                 "title": "Volunteer",
                 "desc": "Enthusiastic group organising events and contests for Polish Riot Games community"
-				"img": "or.png"
             },
             "visionary-projections-studio": {
                 "name": "Visionary Projections Studio",
