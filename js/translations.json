@@ -71,7 +71,7 @@
             },
             "cern": {
                 "name": "CERN",
-                "title": "Staż w CERN",
+                "title": "Stażysta TypeScript Develpoer",
                 "desc": "Eksperyment NA61 wraz ze spotkaniem offline w Genewie w dniach 21-25.09.2020 roku. Pomoc przy aplikacji wizualizującej tor lotu cząstek na podstawie danych z detektora"
             },
             "relax": {
@@ -290,7 +290,7 @@
             },
             "cern": {
                 "name": "CERN",
-                "title": "CERN Junior TypeScript Developer Internship",
+                "title": "TypeScript Developer Internship",
                 "desc": "NA61 experiment with offline collaboration meeting in Geneve on 21-25.09.2020. Helping in programming application visualizing particles paths based on detectors data"
             },
             "relax": {
