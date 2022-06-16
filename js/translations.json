@@ -66,7 +66,7 @@
             },
             "twitch": {
                 "name": "Twitch",
-                "title": "Streamer na platformie Twitch.tv",
+                "title": "Towarzysz",
                 "desc": "Status towarzysza i 7 tysięcy wyświetleń kanału. Transmisja głównie programowania oraz gier typu League of Legends lub innych z interakcją z widownią"
             },
             "cern": {
@@ -285,7 +285,7 @@
             },
             "twitch": {
                 "name": "Twitch",
-                "title": "Twitch.tv Streamer",
+                "title": "Affiliate Streamer",
                 "desc": "Affiliate streamer with 7k views of the channel. Streaming mostly programming and games such like League of Legends or other with interactions with audience"
             },
             "cern": {
