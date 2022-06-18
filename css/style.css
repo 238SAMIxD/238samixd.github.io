@@ -190,6 +190,15 @@ h6 {
   width: 0;
 }
 
+.grid > div > p {
+  margin-bottom: calc(3rem + 16px);
+}
+
+.grid > div > a {
+  position: absolute;
+  bottom: 0;
+}
+
 .highlight {
 	opacity: .8 !important;
 }
