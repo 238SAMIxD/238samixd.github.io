@@ -177,7 +177,11 @@
             }
         },
 		"volunteering": {
-			"title": "Wolontariat"
+			"title": "Wolontariat",
+			"reflect-studios": {
+				"title": "Tester gier",
+				"desc": "Testowanie wersji beta gry Masks of Deception"
+			}
 		},
         "certs": {
             "title": "Certyfikaty",
@@ -407,7 +411,11 @@
             }
         },
 		"volunteering": {
-			"title": "Volunteering"
+			"title": "Volunteering",
+			"reflect-studios": {
+				"title": "Game tester",
+				"desc": "Beta testing Masks of Deception game"
+			}
 		},
         "certs": {
             "title": "Certificates",
