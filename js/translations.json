@@ -176,6 +176,9 @@
                 "desc": "Projekt pocztówki stworzonej dla Ośrodka Wypoczynkowego RELAX w Zdworzu"
             }
         },
+		"volunteering": {
+			"title": "Wolontariat"
+		},
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
@@ -403,6 +406,9 @@
                 "desc": "Postcard project created for RELAX Zdworz Holiday Camping Resort"
             }
         },
+		"volunteering": {
+			"title": "Volunteering"
+		},
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
