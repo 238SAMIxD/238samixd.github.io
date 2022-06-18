@@ -198,6 +198,9 @@ h6 {
   position: absolute;
   bottom: 0;
 }
+.grid > div a:nth-of-type(2) {
+  right: 0;
+}
 
 .highlight {
 	opacity: .8 !important;
