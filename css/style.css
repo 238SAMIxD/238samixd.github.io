@@ -154,22 +154,22 @@ h6 {
   font-size: 1.15rem;
 }
 
-.certs-grid {
+.grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
 
-.certs-grid > div {
+.grid > div {
   position: relative;
 }
 
-.certs-grid > div::before,
-.certs-grid > div::after {
+.grid > div::before,
+.grid > div::after {
   content: '';
   background: #fff;
 }
 
-.certs-grid > div:not(:nth-last-child(-n+3))::before {
+.grid > div:not(:nth-last-child(-n+3))::before {
   position: absolute;
   bottom: 0;
   width: 50%;
@@ -177,7 +177,7 @@ h6 {
   border-radius: 50%;
 }
 
-.certs-grid > div:not(:nth-child(3n))::after {
+.grid > div:not(:nth-child(3n))::after {
   position: absolute;
   top: 20%;
   right: 0;
@@ -186,7 +186,7 @@ h6 {
   border-radius: 50%;
 }
 
-.certs-grid > div:last-child::after {
+.grid > div:last-child::after {
   width: 0;
 }
 
@@ -248,19 +248,19 @@ h6 {
 }
 
 @media (max-width: 1165px) {
-  .certs-grid {
+  .grid {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .certs-grid > div:not(:nth-last-child(-n+3))::before {
+  .grid > div:not(:nth-last-child(-n+3))::before {
     all: initial;
   }
   
-  .certs-grid > div:not(:nth-child(3n))::after {
+  .grid > div:not(:nth-child(3n))::after {
     all: initial;
   }
 
-  .certs-grid > div:not(:nth-last-child(-n+2))::before {
+  .grid > div:not(:nth-last-child(-n+2))::before {
     content: '';
     background: #fff;
     position: absolute;
@@ -269,7 +269,7 @@ h6 {
     height: 1px;
   }
 
-  .certs-grid > div:not(:nth-child(2n))::after {
+  .grid > div:not(:nth-child(2n))::after {
     content: '';
     background: #fff;
     position: absolute;
@@ -280,26 +280,26 @@ h6 {
     border-radius: 50%;
   }
 
-  .certs-grid > div:last-child::after {
+  .grid > div:last-child::after {
     width: 0;
   }
 }
 
 @media (max-width: 750px) {
-  .certs-grid {
+  .grid {
     grid-template-columns: repeat(1, 1fr);
   }
 
-  .certs-grid > div::before {
+  .grid > div::before {
     all: initial;
   }
   
-  .certs-grid > div::after {
+  .grid > div::after {
     all: initial;
     height: 0 !important;
   }
 
-  .certs-grid > div:not(:last-child)::before {
+  .grid > div:not(:last-child)::before {
     content: '';
     background: #fff;
     position: absolute;
