@@ -112,6 +112,10 @@
         "projects": {
             "title": "Projekty",
 			"preview": "Podgląd",
+			"tictactoeswift": {
+				"title": "Kółko i Krzyżyk w Swifcie",
+				"desc": "Kółko i krzyżyk stworzeone w Swifcie z przeciwnikiem w postaci sztucznej inteligentcji"
+			},
 			"onwelorec": {
 				"title": "Zadanie Rekrutacyjne Onwelo",
 				"desc": "Własna wersja strony dokumentacji https://man7.org/linux/man-pages/man1/ls.1.html"
@@ -331,6 +335,10 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
+			"tictactoeswift": {
+				"title": "Tic Tac Toe in Swift",
+				"desc": "Tic Tac Toe Game created in Swift with AI to play with"
+			},
 			"onwelorec": {
 				"title": "Onwelo Recruitment Task",
 				"desc": "Own version of Linux documentation page https://man7.org/linux/man-pages/man1/ls.1.html"
