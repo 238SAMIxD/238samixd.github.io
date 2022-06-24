@@ -126,7 +126,7 @@
 			},
 			"devlog": {
 				"title": "Welcome to the University: Student's Revenge - Strona z Devlogiem",
-				"desc": "Prosta strona internetowa z kilkoma podstronami do ładowania i udostępniamia postów. Wywoływanie API and wysyłanie zapytań do webhooka Discorda."
+				"desc": "Prosta strona internetowa z kilkoma podstronami do ładowania i udostępniania postów. Wywoływanie API and wysyłanie zapytań do webhooka Discorda."
 			},
 			"clash": {
 				"title": "Powtórki League of Legends Puchar Freljordu Clash Dzień 4 Tier II",
@@ -196,6 +196,12 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "spacedoggo": {
+                "title": "Nauka Solidity ze Space Doggo: Interaktywny Kurs Solidity"
+            },
+            "bridge": {
+                "title": "Jak używać Bridge do udostępniania Zasobów z Ethereum do Binance smart chain"
+            },
             "git": {
                 "title": "Poradnik Git dla Początkujących: Master Version Control"
             },
@@ -441,6 +447,12 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "spacedoggo": {
+                "title": "Learn Solidity with Space Doggo: an Interactive Solidity Tutorial"
+            },
+            "bridge": {
+                "title": "How to Bridge Assets from Ethereum to Binance smart chain"
+            },
             "git": {
                 "title": "Git Tutorial for Beginners: Master Version Control"
             },
