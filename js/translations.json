@@ -196,6 +196,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "olympic": {
+                "title": "Z pasją do celu oczami mistrzyni olimpijskiej"
+            },
             "spacedoggo": {
                 "title": "Nauka Solidity ze Space Doggo: Interaktywny Kurs Solidity"
             },
@@ -458,6 +461,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "olympic": {
+                "title": "Olympic champion point of view to goal with passion"
+            },
             "spacedoggo": {
                 "title": "Learn Solidity with Space Doggo: an Interactive Solidity Tutorial"
             },
