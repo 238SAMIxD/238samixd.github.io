@@ -249,6 +249,17 @@
         "socialmedia": "Znajdź mnie na social mediach.",
         "website": "Sprawdź moją stronę!"
     },
+	"orgs": {
+		"title": "Organizations",
+		"show": {
+			"title": "Verified Partner",
+			"desc": ""
+		},
+		"instreamly": {
+			"title": "Partner",
+			"desc": ""
+		}
+	}
     "en": {
 		"current": "Current",
         "month": {
