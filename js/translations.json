@@ -246,20 +246,20 @@
                 "by": "CERN"
             }
         },
+		"orgs": {
+			"title": "Organizacje",
+			"show": {
+				"title": "Zwerifikowany Partner",
+				"desc": ""
+			},
+			"instreamly": {
+				"title": "Partner",
+				"desc": ""
+			}
+		},
         "socialmedia": "Znajdź mnie na social mediach.",
         "website": "Sprawdź moją stronę!"
     },
-	"orgs": {
-		"title": "Organizations",
-		"show": {
-			"title": "Verified Partner",
-			"desc": ""
-		},
-		"instreamly": {
-			"title": "Partner",
-			"desc": ""
-		}
-	}
     "en": {
 		"current": "Current",
         "month": {
@@ -508,6 +508,17 @@
                 "by": "CERN"
             }
         },
+		"orgs": {
+			"title": "Organizations",
+			"show": {
+				"title": "Verified Partner",
+				"desc": "Verified partner of Show.gg"
+			},
+			"instreamly": {
+				"title": "Partner",
+				"desc": "Partner with inStreamly"
+			}
+		},
         "socialmedia": "Find me on social media.",
         "website": "Check out my website!"
 	}
