@@ -49,6 +49,11 @@
         },
         "work": {
             "title": "Doświadczenie zawodowe",
+            "carrier": {
+                "name": "Carrier",
+                "title": "Młodszy Inżynier (Front-End Developer)",
+                "desc": "Młodszy Inżynier, Junior Front-End Developer w zespole LenelS2 w Carrier"
+            },
             "opiekunowie-runeterry": {
                 "name": "Opiekunowie Runeterry",
                 "title": "Wolontariusz",
@@ -313,6 +318,11 @@
         },
         "work": {
             "title": "Work experience",
+            "carrier": {
+                "name": "Carrier",
+                "title": "Junior Engineer (Front-End Developer)",
+                "desc": "Junior Engineer, Junior Front-End Developer for LenelS2 team in Carrier Poland"
+            },
             "opiekunowie-runeterry": {
                 "name": "Opiekunowie Runeterry",
                 "title": "Volunteer",
