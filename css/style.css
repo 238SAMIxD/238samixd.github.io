@@ -35,6 +35,11 @@ h6 {
   border-radius: 5%;
   filter: grayscale(.9);
   cursor: pointer;
+  transition: filter 150ms ease-in-out;
+}
+
+.flag:hover {
+  filter: grayscale(.1);
 }
 
 .pl {
