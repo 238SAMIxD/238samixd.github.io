@@ -199,6 +199,7 @@ h6 {
   bottom: 0;
   transition: background-color 150ms ease-in-out;
 }
+
 .grid > div a:nth-of-type(2) {
   right: 0;
 }
@@ -222,6 +223,11 @@ h6 {
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
+  transition: filter 200ms ease-in-out;
+}
+
+.company-logo:hover {
+  filter: brightness(1.2);
 }
 
 .company-logo::before, .company-logo::after {
