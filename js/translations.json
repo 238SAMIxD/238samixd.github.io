@@ -201,6 +201,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "typescript-fundamentals": {
+                "title": "Podstawy TypeScript"
+            },
             "olympic": {
                 "title": "Z pasją do celu oczami mistrzyni olimpijskiej"
             },
@@ -471,6 +474,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "typescript-fundamentals": {
+                "title": "TypeScript Fundamentals"
+            },
             "olympic": {
                 "title": "Olympic champion point of view to goal with passion"
             },
