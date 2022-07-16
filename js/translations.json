@@ -117,6 +117,10 @@
         "projects": {
             "title": "Projekty",
 			"preview": "Podgląd",
+			"typescript-starter": {
+				"title": "Repozytorium do nauki TypeScript",
+				"desc": "Repozytorium do nauki i poznania TypeScript"
+			},
 			"react-tictactoe": {
 				"title": "Kółko i krzyżyk w ReactJS",
 				"desc": "Prosta gra w kółko i krzyżyk stworzona w celu nauki z pomocą poradnika i dodanie własnych usprawnień"
@@ -396,6 +400,10 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
+			"typescript-starter": {
+				"title": "TypeScript learning repository",
+				"desc": "Repository for TypeScript learning purposes"
+			},
 			"react-tictactoe": {
 				"title": "Tic Tac Toe in ReactJS",
 				"desc": "Simple Tic Tac Toe application made for learning purposes following the guide and upgrading it with own improvements"
