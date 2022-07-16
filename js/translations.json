@@ -117,6 +117,10 @@
         "projects": {
             "title": "Projekty",
 			"preview": "Podgląd",
+			"react-tictactoe": {
+				"title": "Kółko i krzyżyk w ReactJS",
+				"desc": "Prosta gra w kółko i krzyżyk stworzona w celu nauki z pomocą poradnika i dodanie własnych usprawnień"
+			},
 			"wordgameswift": {
 				"title": "Wisielec w Swifcie",
 				"desc": "Wisielec stworzony w Swifcie z kategoriami, poziomami trudności i kilkoma planszami"
@@ -392,6 +396,10 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
+			"react-tictactoe": {
+				"title": "Tic Tac Toe in ReactJS",
+				"desc": "Simple Tic Tac Toe application made for learning purposes following the guide and upgrading it with own improvements"
+			},
 			"wordgameswift": {
 				"title": "Word Game in Swift",
 				"desc": "Simple Word game created in Swift with categories, difficulty and several boards"
