@@ -201,6 +201,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "typescript": {
+                "title": "Kurs TypeScript"
+            },
             "typescript-fundamentals": {
                 "title": "Podstawy TypeScript"
             },
@@ -474,6 +477,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "typescript": {
+                "title": "TypeScript Course"
+            },
             "typescript-fundamentals": {
                 "title": "TypeScript Fundamentals"
             },
