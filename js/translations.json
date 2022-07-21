@@ -493,6 +493,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "annualcertification": {
+                "title": "Annual Certification"
+            },
             "reportingandretaliation": {
                 "title": "Reporting and Retaliation: Speaking Up and Standing Up for What's Right"
             },
