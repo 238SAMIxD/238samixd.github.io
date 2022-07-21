@@ -493,6 +493,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "carriercodeofethics": {
+                "title": "Our Code of Ethics (All-Employee Edition)"
+            },
             "annualcertification": {
                 "title": "Annual Certification"
             },
