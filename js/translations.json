@@ -493,6 +493,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "reportingandretaliation": {
+                "title": "Reporting and Retaliation: Speaking Up and Standing Up for What's Right"
+            },
             "diversityandinclusion": {
                 "title": "Diversity and Inclusion"
             },
