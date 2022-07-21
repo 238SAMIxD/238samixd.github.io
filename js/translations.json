@@ -209,6 +209,18 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "carriercodeofethics": {
+                "title": "Nasze Zasady Etyki (Dla Wszystkich Pracowników)"
+            },
+            "annualcertification": {
+                "title": "Coroczna Certyfikacja"
+            },
+            "reportingandretaliation": {
+                "title": "Zgłaszanie i Odwet: Nagłaśnianie i Wstawianie się za tym, co Właściwe"
+            },
+            "diversityandinclusion": {
+                "title": "Różnorodność i Włączanie"
+            },
             "typescript": {
                 "title": "Kurs TypeScript"
             },
