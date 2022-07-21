@@ -493,6 +493,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "diversityandinclusion": {
+                "title": "Diversity and Inclusion"
+            },
             "typescript": {
                 "title": "TypeScript Course"
             },
