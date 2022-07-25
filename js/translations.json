@@ -209,6 +209,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "harassmentfreeworkplace": {
+                "title": "Tworzenie Wolnego od Nękania Miejsca Pracy (Dla Pracowników)"
+            },
             "conflictsofinterests": {
                 "title": "Rozwiązywanie Konfiktów Interesów"
             },
@@ -508,6 +511,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "harassmentfreeworkplace": {
+                "title": "Creating a Harassment-Free Workplace (Employee Edition)"
+            },
             "conflictsofinterests": {
                 "title": "Managing Conflicts of Interest"
             },
