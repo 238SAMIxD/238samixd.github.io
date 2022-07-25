@@ -100,7 +100,7 @@
             "title": "Edukacja",
             "pg": {
                 "title": "Politechnika Gdańska",
-                "desc": "Kierunek Informatyka"
+                "desc": "Stopień Inżyniera, kierunek Informatyka"
             },
             "highschool": {
                 "title": "Liceum ogólnokształcące im. Marszałka Stanisława Małachowskiego w Płocku",
@@ -403,7 +403,7 @@
             "title": "Education",
             "pg": {
                 "title": "Gdansk University of Technology",
-                "desc": "Computer Science field"
+                "desc": "Engeeniring degree, Computer Science field"
             },
             "highschool": {
                 "title": "Marshal Stanislaw Malachowski High School in Plock",
