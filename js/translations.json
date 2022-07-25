@@ -25,6 +25,8 @@
 		"skills": {
 			"title": "Umiejętności",
 			"driver_licence": "Prawo jazdy kategorii B",
+			"pentesting": "Pentesting",
+			"cpr": "Pierwsza pomoc i RKO",
 			"learning": "Szybka nauka i zapamiętywanie"
 		},
         "languages": {
@@ -326,6 +328,8 @@
 		"skills": {
 			"title": "Skills",
 			"driver_licence": "B cat. driver licence",
+			"pentesting": "Pentesting",
+			"cpr": "First aid and CPR",
 			"learning": "Quick learning and remembering"
 		},
         "languages": {
