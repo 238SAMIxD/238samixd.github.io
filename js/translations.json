@@ -209,6 +209,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "conflictsofinterests": {
+                "title": "Rozwiązywanie Konfiktów Interesów"
+            },
             "carriercodeofethics": {
                 "title": "Nasze Zasady Etyki (Dla Wszystkich Pracowników)"
             },
@@ -505,6 +508,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "conflictsofinterests": {
+                "title": "Managing Conflicts of Interest"
+            },
             "carriercodeofethics": {
                 "title": "Our Code of Ethics (All-Employee Edition)"
             },
