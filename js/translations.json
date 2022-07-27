@@ -211,6 +211,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "scyllas101": {
+                "title": "S101: Podstawy Scylla - Przegląd i podstawy NoSQL"
+            },
             "briberyandcorruprion": {
                 "title": "Unikanie Przekupstwa i Korupcji w Środowisku Biznesu Globalnego—Omówienie"
             },
@@ -518,6 +521,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "scyllas101": {
+                "title": "S101: Scylla Essentials – Overview of Scylla and NoSQL Basics"
+            },
             "briberyandcorruprion": {
                 "title": "Avoiding Bribery and Corruption in the Global Business Environment—An Overview"
             },
