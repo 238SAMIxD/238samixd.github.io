@@ -271,6 +271,10 @@ h6 {
   transform: scaleY(1);
 }
 
+.assessment {
+	width: 100%;
+}
+
 @media (max-width: 1165px) {
   .grid {
     grid-template-columns: repeat(2, 1fr);
