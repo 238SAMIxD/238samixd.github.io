@@ -211,6 +211,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "briberyandcorruprion": {
+                "title": "Unikanie Przekupstwa i Korupcji w Środowisku Biznesu Globalnego—Omówienie"
+            },
             "harassmentfreeworkplace": {
                 "title": "Tworzenie Wolnego od Nękania Miejsca Pracy (Dla Pracowników)"
             },
@@ -515,6 +518,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "briberyandcorruprion": {
+                "title": "Avoiding Bribery and Corruption in the Global Business Environment—An Overview"
+            },
             "harassmentfreeworkplace": {
                 "title": "Creating a Harassment-Free Workplace (Employee Edition)"
             },
