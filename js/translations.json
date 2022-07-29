@@ -537,6 +537,9 @@
             "securityawerness": {
                 "title": "2022 Kevin Mitnick Security Awareness Training - 15 minutes"
             },
+            "redflags": {
+                "title": "2022 Social Engineering Red Flags"
+            },
             "scyllas101": {
                 "title": "S101: Scylla Essentials – Overview of Scylla and NoSQL Basics"
             },
