@@ -296,6 +296,10 @@
         },
 		"orgs": {
 			"title": "Organizacje",
+			"nsfft": {
+				"title": "Front-End Engineer",
+				"desc": "Niepowtarzalny projekt charytatywny na Binance Smart Chain"
+			},
 			"show": {
 				"title": "Zwerifikowany Partner",
 				"desc": "Zweryfikowany partner Show.gg"
@@ -609,6 +613,10 @@
         },
 		"orgs": {
 			"title": "Organizations",
+			"nsfft": {
+				"title": "Front-End Engineer",
+				"desc": "Unique charity project on Binance Smart Chain"
+			},
 			"show": {
 				"title": "Verified Partner",
 				"desc": "Verified partner of Show.gg"
