@@ -18,8 +18,8 @@
         "info": {
             "looking": "Junior Front-End Developer",
             "job": "Młodszy Inżynier - Web Developer w Carrier",
-            "study": "Politechnika Gdańska",
-            "direction": "Informatyka, 2. rok",
+            "study": "Informatyka 2. rok, Politechnika Gdańska",
+            "main": "Front-End",
             "home": "Gdańsk, PL"
         },
 		"skills": {
@@ -330,8 +330,8 @@
         "info": {
             "looking": "Junior Front-End Developer",
             "job": "Junior Engineer - Web Developer at Carrier",
-            "study": "Gdansk University of Technology",
-            "direction": "Computer Science, 2nd year",
+            "study": "Computer Science 2nd year, Gdansk University of Technology",
+            "main": "Front-End",
             "home": "Gdansk, PL"
         },
 		"skills": {
