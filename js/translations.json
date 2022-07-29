@@ -211,6 +211,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "securityawerness": {
+                "title": "2022 Trening Świadomości Bezpieczeństwa Kevina Mitnicka - 15 minut"
+            },
             "redflags": {
                 "title": "2022 Inżynieria Społeczna Znaki Ostrzegawcze"
             },
@@ -531,6 +534,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "securityawerness": {
+                "title": "2022 Kevin Mitnick Security Awareness Training - 15 minutes"
+            },
             "scyllas101": {
                 "title": "S101: Scylla Essentials – Overview of Scylla and NoSQL Basics"
             },
