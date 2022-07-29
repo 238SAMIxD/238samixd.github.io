@@ -211,6 +211,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "redflags": {
+                "title": "2022 Inżynieria Społeczna Znaki Ostrzegawcze"
+            },
             "scyllas101": {
                 "title": "S101: Podstawy Scylla - Przegląd i podstawy NoSQL"
             },
