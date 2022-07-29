@@ -305,7 +305,7 @@
 				"desc": "Partner inStreamly"
 			}
 		},
-		"skills": {
+		"assessments": {
 			"title": "Umiejętności"
 		},
         "socialmedia": "Znajdź mnie na social mediach.",
@@ -618,7 +618,7 @@
 				"desc": "Partner with inStreamly"
 			}
 		},
-		"skills": {
+		"assessments": {
 			"title": "Skills"
 		},
         "socialmedia": "Find me on social media.",
