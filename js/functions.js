@@ -1,4 +1,5 @@
 loadCompanyLogos();
+loadAssessments();
 
 function loadCompanyLogos() {
     const divs = document.querySelectorAll(".company-logo");
