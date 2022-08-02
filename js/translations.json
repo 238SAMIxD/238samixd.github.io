@@ -215,6 +215,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "carrier101products": {
+                "title": "Carrier 101: Nasze Produkty"
+            },
             "carrier101concepts": {
                 "title": "Carrier 101: Fundamentalne Koncepcje za Naszym Biznesem"
             },
@@ -463,9 +466,6 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
-            "carrier101concepts": {
-                "title": "Carrier 101: Fundamental Concepts Behind Our Businesses"
-            },
 			"storybook-starter": {
 				"title": "Storybook learning repository",
 				"desc": "Repository created for Storybook learning purposes"
@@ -563,6 +563,12 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "carrier101products": {
+                "title": "Carrier 101: Our Products"
+            },
+            "carrier101concepts": {
+                "title": "Carrier 101: Fundamental Concepts Behind Our Businesses"
+            },
             "businessemail": {
                 "title": "Business Email Compromise"
             },
