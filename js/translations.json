@@ -215,6 +215,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "businessemail": {
+                "title": "Kompromitacja Emaila Firmowego"
+            },
             "insideman1": {
                 "title": "The Inside Man Sezon 1"
             },
@@ -554,6 +557,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "businessemail": {
+                "title": "Business Email Compromise"
+            },
             "insideman1": {
                 "title": "The Inside Man Season 1"
             },
