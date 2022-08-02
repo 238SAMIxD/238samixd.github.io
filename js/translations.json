@@ -215,6 +215,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "internetsecurity": {
+                "title": "2022 Twoja Rola: Bezpieczeństwo w Sieci i Ty"
+            },
             "cybersecurityawerness": {
                 "title": "Carrier 2022 Wyzwanie Świadomości Cyberbezpieczeństwa"
             },
@@ -545,6 +548,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "internetsecurity": {
+                "title": "2022 Your Role: Internet Security and You"
+            },
             "cybersecurityawerness": {
                 "title": "Carrier 2022 Cybersecurity Awareness Challenge"
             },
