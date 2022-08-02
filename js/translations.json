@@ -119,6 +119,10 @@
         "projects": {
             "title": "Projekty",
 			"preview": "Podgląd",
+			"storybook-starter": {
+				"title": "Repozytorium do nauki Storybook",
+				"desc": "Repozytorium do nauki i poznania Storybook w ReactJS"
+			},
 			"typescript-starter": {
 				"title": "Repozytorium do nauki TypeScript",
 				"desc": "Repozytorium do nauki i poznania TypeScript"
@@ -441,6 +445,10 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
+			"storybook-starter": {
+				"title": "Storybook learning repository",
+				"desc": "Repository created for Storybook learning purposes"
+			},
 			"typescript-starter": {
 				"title": "TypeScript learning repository",
 				"desc": "Repository for TypeScript learning purposes"
