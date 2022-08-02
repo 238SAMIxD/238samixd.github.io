@@ -215,6 +215,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "carrier101concepts": {
+                "title": "Carrier 101: Fundamentalne Koncepcje za Naszym Biznesem"
+            },
             "businessemail": {
                 "title": "Kompromitacja Emaila Firmowego"
             },
@@ -460,6 +463,9 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
+            "carrier101concepts": {
+                "title": "Carrier 101: Fundamental Concepts Behind Our Businesses"
+            },
 			"storybook-starter": {
 				"title": "Storybook learning repository",
 				"desc": "Repository created for Storybook learning purposes"
