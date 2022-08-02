@@ -215,6 +215,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "insideman1": {
+                "title": "The Inside Man Sezon 1"
+            },
             "setvpn": {
                 "title": "Jak Ustawić Wirtualną Sieć Prywatną (VPN)"
             },
@@ -551,6 +554,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "insideman1": {
+                "title": "The Inside Man Season 1"
+            },
             "setvpn": {
                 "title": "How To Set Up a Virtual Private Network (VPN)"
             },
