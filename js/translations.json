@@ -215,6 +215,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "setvpn": {
+                "title": "Jak Ustawić Wirtualną Sieć Prywatną (VPN)"
+            },
             "internetsecurity": {
                 "title": "2022 Twoja Rola: Bezpieczeństwo w Sieci i Ty"
             },
@@ -548,6 +551,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "setvpn": {
+                "title": "How To Set Up a Virtual Private Network (VPN)"
+            },
             "internetsecurity": {
                 "title": "2022 Your Role: Internet Security and You"
             },
