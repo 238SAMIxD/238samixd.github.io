@@ -215,6 +215,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "cybersecuritytoolkit": {
+                "title": "Narzędzia Cyberbezpieczeństwa"
+            },
             "carrier101products": {
                 "title": "Carrier 101: Nasze Produkty"
             },
@@ -563,6 +566,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "cybersecuritytoolkit": {
+                "title": "Cybersecurity Toolkit"
+            },
             "carrier101products": {
                 "title": "Carrier 101: Our Products"
             },
