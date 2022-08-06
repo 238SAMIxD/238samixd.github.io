@@ -219,6 +219,10 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "firstaid": {
+                "title": "Rozszerzony Kurs Pierwszej Pomocy",
+				"by": "Fundacja Łańcuch (Prze)życia"
+            },
             "cybersecuritytoolkit": {
                 "title": "Narzędzia Cyberbezpieczeństwa"
             },
@@ -574,6 +578,10 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "firstaid": {
+                "title": "Extended First Aid Course",
+				"by": "Łańcuch (Prze)życia Foundation"
+            },
             "cybersecuritytoolkit": {
                 "title": "Cybersecurity Toolkit"
             },
