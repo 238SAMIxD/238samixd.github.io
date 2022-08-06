@@ -119,6 +119,10 @@
         "projects": {
             "title": "Projekty",
 			"preview": "Podgląd",
+			"tailwind-starter": {
+				"title": "Repozytorium do nauki Tailwind CSS",
+				"desc": "Repozytorium do nauki i poznania Tailiwnd CSS"
+			},
 			"storybook-starter": {
 				"title": "Repozytorium do nauki Storybook",
 				"desc": "Repozytorium do nauki i poznania Storybook w ReactJS"
@@ -469,6 +473,10 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
+			"tailwind-starter": {
+				"title": "Tailwind learning repository",
+				"desc": "Repository created for Tailwind learning purposes"
+			},
 			"storybook-starter": {
 				"title": "Storybook learning repository",
 				"desc": "Repository created for Storybook learning purposes"
