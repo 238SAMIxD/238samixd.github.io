@@ -219,6 +219,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "lenelassociate": {
+                "title": "Certyfikowany Towarzysz Lenel"
+            },
             "firstaid": {
                 "title": "Rozszerzony Kurs Pierwszej Pomocy",
 				"by": "Fundacja Łańcuch (Prze)życia"
@@ -578,6 +581,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "lenelassociate": {
+                "title": "Lenel Certified Associate"
+            },
             "firstaid": {
                 "title": "Extended First Aid Course",
 				"by": "Łańcuch (Prze)życia Foundation"
