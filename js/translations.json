@@ -219,6 +219,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "insideman2": {
+                "title": "The Inside Man Sezon 2"
+            },
             "newhiresguide": {
                 "title": "Poradnik Świadomości Bezpieczeństwa dla Nowych Pracowników"
             },
@@ -584,6 +587,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "insideman2": {
+                "title": "The Inside Man Season 2"
+            },
             "newhiresguide": {
                 "title": "A New Hire's Guide to Security Awareness"
             },
