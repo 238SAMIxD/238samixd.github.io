@@ -219,6 +219,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "onguardfundamentals": {
+                "title": "Podstawy OnGuard EMEA"
+            },
             "insideman2": {
                 "title": "The Inside Man Sezon 2"
             },
@@ -587,6 +590,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "onguardfundamentals": {
+                "title": "EMEA OnGuard Fundamentals"
+            },
             "insideman2": {
                 "title": "The Inside Man Season 2"
             },
