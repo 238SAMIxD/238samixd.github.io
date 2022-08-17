@@ -219,6 +219,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "accesscontrolhw": {
+                "title": "Sprzęt Kontroli Dostępu"
+            },
             "introaccesscontrol": {
                 "title": "Wprowadzenie do Kontroli Dostępu"
             },
@@ -593,6 +596,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "accesscontrolhw": {
+                "title": "Access Control Hardware"
+            },
             "introaccesscontrol": {
                 "title": "Introduction to Access Control"
             },
