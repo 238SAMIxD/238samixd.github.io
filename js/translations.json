@@ -219,6 +219,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "introaccesscontrol": {
+                "title": "Wprowadzenie do Kontroli Dostępu"
+            },
             "onguardfundamentals": {
                 "title": "Podstawy OnGuard EMEA"
             },
@@ -590,6 +593,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "introaccesscontrol": {
+                "title": "Introduction to Access Control"
+            },
             "onguardfundamentals": {
                 "title": "EMEA OnGuard Fundamentals"
             },
