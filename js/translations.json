@@ -119,6 +119,10 @@
         "projects": {
             "title": "Projekty",
 			"preview": "Podgląd",
+			"websockets-starter": {
+				"title": "Repozytorium do nauki Websockets",
+				"desc": "Repozytorium do nauki i poznania Websockets"
+			},
 			"tailwind-starter": {
 				"title": "Repozytorium do nauki Tailwind CSS",
 				"desc": "Repozytorium do nauki i poznania Tailwind CSS"
@@ -504,6 +508,10 @@
         "projects": {
             "title": "Projects",
 			"preview": "Preview",
+			"websockets-starter": {
+				"title": "Websockets learning repository",
+				"desc": "Repository for Websockets learning purposes"
+			},
 			"tailwind-starter": {
 				"title": "Tailwind learning repository",
 				"desc": "Repository created for Tailwind learning purposes"
