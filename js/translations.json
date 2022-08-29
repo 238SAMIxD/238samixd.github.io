@@ -219,6 +219,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "insideman3": {
+                "title": "The Inside Man Sezon 3"
+            },
             "onguard81update": {
                 "title": "Towarzysz OnGuard 8.1 Aktualizacja Certyfikacji"
             },
@@ -599,6 +602,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "insideman3": {
+                "title": "The Inside Man Season 3"
+            },
             "onguard81update": {
                 "title": "OnGuard 8.1 Associate Certification Update"
             },
