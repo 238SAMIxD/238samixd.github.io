@@ -219,6 +219,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "carrierexcelence": {
+                "title": "Przegląd Doskonałości Carrier (Cx)"
+            },
             "insideman3": {
                 "title": "The Inside Man Sezon 3"
             },
@@ -602,6 +605,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "carrierexcelence": {
+                "title": "Carrier Excellence (Cx) Overview"
+            },
             "insideman3": {
                 "title": "The Inside Man Season 3"
             },
