@@ -89,16 +89,18 @@
                 "desc": "Eksperyment NA61 wraz ze spotkaniem offline w Genewie w dniach 21-25.09.2020 roku. Pomoc przy aplikacji wizualizującej tor lotu cząstek na podstawie danych z detektora"
             },
             "betup": {
+                "name": "UPAPP",
                 "title": "Tłumacz",
                 "desc": "Tłumaczenie aplikacji BETUP"
             },
             "mazovia": {
-                "name": "Mazovia Gostynin",
-				"title": "Mazovia Gostynin (poprzednio AS Gostynin)",
+                "name": "Mazovia Gostynin (poprzednio AS Gostynin)",
+                "title": "Libero",
                 "desc": "Libero z nagrodą \"Najlepszy zawodnik\" w Turnieju o Puchar Burmistrza Miasta Gostynina. Zwycięzca II Kutnowskiej Amatorskiej Ligi Siatkówki 2018/19"
             },
             "mvt": {
                 "name": "Małachowianka Volleyball Team",
+                "title": "Przyjmujący",
                 "desc": "Przyjmujący z nagrodą \"Wyróżniający się zawodnik\" XV Turnieju z Okazji Święta Niepodległości o Puchar Dyrektora Zespołu Szkół nr 2 w Płońsku pod Patronatem Starosty Płońskiego. Zwycięzca (2018/19) oraz 2. miejscie (2017/18) w Młodzieżowej Lidze Sportowej Szkół Średnich miasta Płocka, Zwycięzca XXXIII Inspektorialnych Igrzysk Młodzieży Salezjańskiej w Ostródzie 2018, Zwycięzca Pucharu Prorektora Politechniki Warszawskiej Filii w Płocku 2018, Zwycięzca (2019) oraz 3. miejsce (2018) w Turnieju o Puchar Starosty Żuromina, Zwycięzca XV Turnieju z Okazji Święta Niepodległości o Puchar Dyrektora Zespołu Szkół nr 2 w Płońsku pod Patronatem Starosty Płońskiego 2019, 4. miejsce w XXIX Światowych Igrzyskach Młodzieży Salezjańskiej w Krakowie 2018"
             }
         },
@@ -493,16 +495,18 @@
                 "desc": "NA61 experiment with offline collaboration meeting in Geneve on 21-25.09.2020. Helping in programming application visualizing particles paths based on detectors data"
             },
             "betup": {
+                "name": "UPAPP",
                 "title": "Translator",
                 "desc": "Translating BETUP application"
             },
             "mazovia": {
-                "name": "Mazovia Gostynin",
-				"title": "Mazovia Gostynin (AS Gostynin before)",
+                "name": "Mazovia Gostynin (AS Gostynin before)",
+				"title": "Libero",
                 "desc": "Libero with Best Player of the Gostynin Mayor's Cup Men's Tournament award. Champion of Kutno Amateur Volleyball Second League 2018/19"
             },
             "mvt": {
                 "name": "Malachowianka Volleyball Team",
+                "title": "Receiver",
                 "desc": "Receiver with Extraordinary Player of the Plonsk Independace Day's Men's Tournament. Champion (2018/19) and Runner-Up (2017/18) of Youth Sports League of Plock High Schools, Champion of XXXIII Provincional Games of Salesian Youth Ostroda 2018, Champion of Warsaw University of Technology Branch in Plock Vice-Rector's Cup 2018, Champion (2019) and 3rd place (2018) in Cup of Zuromin Starost Tournament, Champion of XV Plonsk Independace Day's Men's Tournament 2019, 4th place in XXIX World Games of Salesian Youth Cracow 2018"
             }
         },
