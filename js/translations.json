@@ -226,6 +226,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "startupmarathon": {
+                "title": "Warsztaty Startup Maraton"
+            },
             "carrierexcelence": {
                 "title": "Przegląd Doskonałości Carrier (Cx)"
             },
@@ -618,6 +621,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "startupmarathon": {
+                "title": "Startup Marathon Workshop"
+            },
             "carrierexcelence": {
                 "title": "Carrier Excellence (Cx) Overview"
             },
