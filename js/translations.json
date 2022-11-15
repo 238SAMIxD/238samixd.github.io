@@ -591,17 +591,14 @@
 		"volunteering": {
 			"title": "Volunteering",
             "infoshare": {
-                "name": "Infoshare",
                 "title": "Event Assistant",
                 "desc": "Assistant in the Stages team working on DevTrends stage"
             },
             "opiekunowie-runeterry": {
-                "name": "Opiekunowie Runeterry",
                 "title": "IT Specialist",
                 "desc": "Enthusiastic group organising events and contests for Polish Riot Games community"
             },
 			"reflect-studios": {
-				"name": "Reflect Studios",
 				"title": "Game tester",
 				"desc": "Beta testing Masks of Deception game"
 			},
