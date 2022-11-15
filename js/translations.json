@@ -215,6 +215,10 @@
 			"reflect-studios": {
 				"title": "Tester gier",
 				"desc": "Testowanie wersji beta gry Masks of Deception"
+			},
+			"maturatobzdura": {
+				"title": "Tester aplikacji",
+				"desc": "Testowanie wersji beta aplikacji Quiz House"
 			}
 		},
         "certs": {
@@ -602,6 +606,10 @@
 				"name": "Reflect Studios",
 				"title": "Game tester",
 				"desc": "Beta testing Masks of Deception game"
+			},
+			"maturatobzdura": {
+				"title": "application Tester",
+				"desc": "Beta testing Quiz House application"
 			}
 		},
         "certs": {
