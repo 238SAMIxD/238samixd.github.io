@@ -83,6 +83,10 @@
                 "title": "Ośrodek Wypoczynkowy RELAX w Zdworzu",
                 "desc": "Praca przy grillu i obsługa klientów przy kasie fiskalnej. Stworzenie własnej pocztówki"
             },
+            "betup": {
+                "title": "Tłumacz",
+                "desc": "Tłumaczenie aplikacji BETUP"
+            },
             "mazovia": {
                 "name": "Mazovia Gostynin",
 				"title": "Mazovia Gostynin (poprzednio AS Gostynin)",
@@ -477,6 +481,10 @@
                 "name": "RELAX Zdworz Holiday Camping Resort",
                 "title": "RELAX Zdworz Holiday Camping Resort",
                 "desc": "Grill and customer service. Using cash register and interacting with clients. Also postcard created"
+            },
+            "betup": {
+                "title": "Translator",
+                "desc": "Translating BETUP application"
             },
             "mazovia": {
                 "name": "Mazovia Gostynin",
