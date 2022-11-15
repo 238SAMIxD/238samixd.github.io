@@ -202,6 +202,10 @@
         },
 		"volunteering": {
 			"title": "Wolontariat",
+            "ihf": {
+                "title": "Volunteer (Group TBD)",
+                "desc": "Helping in IHF World Championship 2023 organization. Specific role will be determined later on"
+            },
             "infoshare": {
                 "title": "Asystent podczas Wydarzenia",
                 "desc": "Asystent w drużynie Stages na scenie DevTrends"
@@ -590,6 +594,10 @@
         },
 		"volunteering": {
 			"title": "Volunteering",
+            "ihf": {
+                "title": "Volunteer (Group TBD)",
+                "desc": "Helping in IHF World Championship 2023 organization. Specific role will be determined later on"
+            },
             "infoshare": {
                 "title": "Event Assistant",
                 "desc": "Assistant in the Stages team working on DevTrends stage"
