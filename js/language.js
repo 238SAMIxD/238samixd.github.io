@@ -14,33 +14,33 @@ function changeLanguage( lang ) {
     localStorage.setItem("language", lang);
 	
 	fetch('js/translations.json')
-	.then(response => {
-	   return response.json();
-	})
-	.then(json => {
-	   return json[ localStorage.getItem("language") ];
-	})
-	.then(translations => {
-	   document.querySelectorAll("[data-text]").forEach(e => {
-		let t = translations;
+		.then(response => {
+			return response.json();
+		})
+		.then(json => {
+			return json[ localStorage.getItem("language") ];
+		})
+		.then(translations => {
+			document.querySelectorAll("[data-text]").forEach(e => {
+				let t = translations;
 
-		if( e.dataset.grandparent ) {
-			t = t[ e.dataset.grandparent ];
-		}
+				if( e.dataset.grandparent ) {
+					t = t[ e.dataset.grandparent ];
+				}
 
-		if( e.dataset.parent ) {
-			t = t[ e.dataset.parent ];
-		}
+				if( e.dataset.parent ) {
+					t = t[ e.dataset.parent ];
+				}
 
-		let x = "";
+				let x = "";
 
-		if( e.innerHTML.indexOf("</i>") > 0  ){
-			x = e.innerHTML.slice( 0, e.innerHTML.indexOf("</i>") + 4 ) + ' ';
-		}
+				if( e.innerHTML.indexOf("</i>") > 0  ){
+					x = e.innerHTML.slice( 0, e.innerHTML.indexOf("</i>") + 4 ) + ' ';
+				}
 
-		e.innerHTML = x + t[ e.dataset.text ];
-	   })
-	});
+				e.innerHTML = x + t[ e.dataset.text ];
+			});
+		});
  }
 
  
