@@ -47,7 +47,7 @@
 		},
         "businesscard": {
             "title": "Wizytówka",
-            "info": "Młodszy Inżynier, Web Developer - JavaScript/TypeScript, Student Informatyki, Startup Front-End Engineer, Volunteer, Partner. Posługuję się następującymi językami programowania: JavaScript (także HTML i CSS) w React'ie z TypeScriptem, PHP, SQL, C++, Java, C#, Swift. Tworzyłem również proste aplikacje mobilne oraz montuję filmy wideo. Poza studiami tworzyłem projekt w pełni funkcjonalnej strony internetowej turnieju szachowego z systemami rejestracji, logowania, zapisów czy też zewnętrznych API, a ponadto z własnym API, dzięki któremu inni deweloperzy będą mogli uzyskać informacje o wydarzeniach we własnych aplikacjach. W dodatku jestem w trakcie nauki silnika Unity, w którym planuję wydać własną grę typu horror/hackowanie. Biorę udział w licznych konferencjach, spotkaniach, webinarach oraz meetupach informatycznych oraz udzielam się jako wolontariusz."
+            "info": "Młodszy Inżynier Oprogramowania, Web Developer - JavaScript/TypeScript, Student Informatyki, Startup Front-End Engineer, Volunteer, Partner. Posługuję się następującymi językami programowania: JavaScript (także HTML i CSS) w React'ie z TypeScriptem, PHP, SQL, C++, Java, C#, Swift. Tworzyłem również proste aplikacje mobilne oraz montuję filmy wideo. Poza studiami tworzyłem projekt w pełni funkcjonalnej strony internetowej turnieju szachowego z systemami rejestracji, logowania, zapisów czy też zewnętrznych API, a ponadto z własnym API, dzięki któremu inni deweloperzy będą mogli uzyskać informacje o wydarzeniach we własnych aplikacjach. W dodatku jestem w trakcie nauki silnika Unity, w którym planuję wydać własną grę typu horror/hackowanie. Biorę udział w licznych konferencjach, spotkaniach, webinarach oraz meetupach informatycznych oraz udzielam się jako wolontariusz."
         },
         "work": {
             "title": "Doświadczenie zawodowe",
@@ -406,7 +406,7 @@
         },
         "info": {
             "looking": "Junior Front-End Developer",
-            "job": "Junior Engineer, Web Developer at Carrier",
+            "job": "Junior Software Engineer, Web Developer JavaScript/TypeScript at Carrier",
             "study": "Computer Science 2nd year, Gdansk University of Technology",
             "main": "Front-End",
             "home": "Gdansk, PL"
