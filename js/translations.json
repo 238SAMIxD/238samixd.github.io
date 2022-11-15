@@ -73,15 +73,20 @@
                 "title": "Towarzysz",
                 "desc": "Status towarzysza i 7 tysięcy wyświetleń kanału. Transmisja głównie programowania oraz gier typu League of Legends lub innych z interakcją z widownią"
             },
-            "cern": {
-                "name": "CERN",
-                "title": "Stażysta TypeScript Develpoer",
-                "desc": "Eksperyment NA61 wraz ze spotkaniem offline w Genewie w dniach 21-25.09.2020 roku. Pomoc przy aplikacji wizualizującej tor lotu cząstek na podstawie danych z detektora"
+            "landlord": {
+                "name": "Reality Games",
+                "title": "Tłumacz",
+                "desc": "Tłumaczenie FAQ oraz aplikacji Landlord Tycoon"
             },
             "relax": {
                 "name": "Ośrodek Wypoczynkowy RELAX w Zdworzu",
                 "title": "Ośrodek Wypoczynkowy RELAX w Zdworzu",
                 "desc": "Praca przy grillu i obsługa klientów przy kasie fiskalnej. Stworzenie własnej pocztówki"
+            },
+            "cern": {
+                "name": "CERN",
+                "title": "Stażysta TypeScript Develpoer",
+                "desc": "Eksperyment NA61 wraz ze spotkaniem offline w Genewie w dniach 21-25.09.2020 roku. Pomoc przy aplikacji wizualizującej tor lotu cząstek na podstawie danych z detektora"
             },
             "betup": {
                 "title": "Tłumacz",
@@ -472,15 +477,20 @@
                 "title": "Affiliate Streamer",
                 "desc": "Affiliate streamer with 7k views of the channel. Streaming mostly programming and games such like League of Legends or other with interactions with audience"
             },
-            "cern": {
-                "name": "CERN",
-                "title": "TypeScript Developer Internship",
-                "desc": "NA61 experiment with offline collaboration meeting in Geneve on 21-25.09.2020. Helping in programming application visualizing particles paths based on detectors data"
+            "landlord": {
+                "name": "Reality Games",
+                "title": "Translator",
+                "desc": "Translating FAQs and Landlord Tycoon application"
             },
             "relax": {
                 "name": "RELAX Zdworz Holiday Camping Resort",
                 "title": "RELAX Zdworz Holiday Camping Resort",
                 "desc": "Grill and customer service. Using cash register and interacting with clients. Also postcard created"
+            },
+            "cern": {
+                "name": "CERN",
+                "title": "TypeScript Developer Internship",
+                "desc": "NA61 experiment with offline collaboration meeting in Geneve on 21-25.09.2020. Helping in programming application visualizing particles paths based on detectors data"
             },
             "betup": {
                 "title": "Translator",
