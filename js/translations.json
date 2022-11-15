@@ -203,12 +203,10 @@
 		"volunteering": {
 			"title": "Wolontariat",
             "infoshare": {
-                "name": "Infoshare",
                 "title": "Asystent podczas Wydarzenia",
                 "desc": "Asystent w drużynie Stages na scenie DevTrends"
             },
             "opiekunowie-runeterry": {
-                "name": "Opiekunowie Runeterry",
                 "title": "Specjalista IT",
                 "desc": "Grupa entuzjastów zajmująca się organizacją wydarzeń i konkursów dla polskiej społeczności Riot Games"
             },
