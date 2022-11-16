@@ -237,6 +237,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "eliteprophishing22": {
+                "title": "Finalista Konkursu Pshishingowego Elite Pro"
+            },
             "isvolunteerappreciation": {
                 "title": "Certyfikat Uznania"
             },
@@ -656,6 +659,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "eliteprophishing22": {
+                "title": "Elite Pro Phishing Competition Finalist"
+            },
             "isvolunteerappreciation": {
                 "title": "Certificate of Appreciation"
             },
