@@ -237,6 +237,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "isvolunteerappreciation": {
+                "title": "Certyfikat Uznania"
+            },
             "isvolunteer": {
                 "title": "Zaświadczenie o Wolontariacie"
             },
@@ -653,6 +656,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "isvolunteerappreciation": {
+                "title": "Certificate of Appreciation"
+            },
             "isvolunteer": {
                 "title": "Volunteering Certificate"
             },
