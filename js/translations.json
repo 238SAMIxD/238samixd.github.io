@@ -237,6 +237,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "ivgcbootcamp": {
+                "title": "Bootcamp Wprowadzenie do Tworzenia Gier Wideo"
+            },
             "websocketnode": {
                 "title": "Aplikacja czatu z Websocket i Node"
             },
@@ -646,6 +649,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "ivgcbootcamp": {
+                "title": "Introduction to Video Games Creation Bootcamp"
+            },
             "websocketnode": {
                 "title": "WebSockets Node Socket io Chat App"
             },
