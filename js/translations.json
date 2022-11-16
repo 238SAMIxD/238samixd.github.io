@@ -238,7 +238,8 @@
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
             "ivgcbootcamp": {
-                "title": "Bootcamp Wprowadzenie do Tworzenia Gier Wideo"
+                "title": "Bootcamp Wprowadzenie do Tworzenia Gier Wideo",
+                "by": "Uniwersytet Nauk Stosowanych w Południowo-Wschodniej Finlandii"
             },
             "websocketnode": {
                 "title": "Aplikacja czatu z Websocket i Node"
@@ -650,7 +651,8 @@
             "title": "Certificates",
             "certificate": "Certificate",
             "ivgcbootcamp": {
-                "title": "Introduction to Video Games Creation Bootcamp"
+                "title": "Introduction to Video Games Creation Bootcamp",
+                "by": "South-Eastern Finland University of Applied Sciences"
             },
             "websocketnode": {
                 "title": "WebSockets Node Socket io Chat App"
