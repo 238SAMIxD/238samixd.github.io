@@ -237,6 +237,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "websocketnode": {
+                "title": "Aplikacja czatu z Websocket i Node"
+            },
             "startupmarathon": {
                 "title": "Warsztaty Startup Maraton"
             },
@@ -643,6 +646,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "websocketnode": {
+                "title": "WebSockets Node Socket io Chat App"
+            },
             "startupmarathon": {
                 "title": "Startup Marathon Workshop"
             },
