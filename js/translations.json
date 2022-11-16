@@ -237,6 +237,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "isvolunteer": {
+                "title": "Zaświadczenie o Wolontariacie"
+            },
             "ivgcbootcamp": {
                 "title": "Bootcamp Wprowadzenie do Tworzenia Gier Wideo",
                 "by": "Uniwersytet Nauk Stosowanych w Południowo-Wschodniej Finlandii"
@@ -650,6 +653,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "isvolunteer": {
+                "title": "Volunteering Certificate"
+            },
             "ivgcbootcamp": {
                 "title": "Introduction to Video Games Creation Bootcamp",
                 "by": "South-Eastern Finland University of Applied Sciences"
