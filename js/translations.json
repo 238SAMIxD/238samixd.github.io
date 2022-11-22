@@ -237,6 +237,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "vuejsforge2": {
+                "title": "Uczestnictwo w Vue.js Forge Epizod 2"
+            },
             "remix22": {
                 "title": "Uczestnictwo w Remix Conf 2022"
             },
@@ -662,6 +665,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "vuejsforge2": {
+                "title": "Vue.js Forge Episode 2 Participation"
+            },
             "remix22": {
                 "title": "Remix Conf Europe 2022 Participation"
             },
