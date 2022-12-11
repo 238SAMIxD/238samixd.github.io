@@ -51,6 +51,11 @@
         },
         "work": {
             "title": "Doświadczenie zawodowe",
+            "realme": {
+                "name": "realme",
+                "title": "Model",
+                "desc": "Wzięcie udziału w nagraniu filmiku promocyjnego produktu realme"
+            },
             "carrier": {
                 "name": "Carrier Fire & Security",
                 "title2": "Młodszy Inżynier Oprogramowania, Web Developer - JavaScript/TypeScript",
@@ -479,6 +484,11 @@
         },
         "work": {
             "title": "Work experience",
+            "realme": {
+                "name": "realme",
+                "title": "Model",
+                "desc": "Taking part in a product promotional video recording as a model"
+            },
             "carrier": {
                 "name": "Carrier Fire & Security",
                 "title2": "Junior Software Engineer, Web Developer - JavaScript/TypeScript",
