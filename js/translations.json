@@ -242,6 +242,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "hack4law22": {
+                "title": "Certyfikat uznania Hackathon Hack4Law 2022"
+            },
             "cpp1": {
                 "title": "C++ - Część 1 - Struktura programu",
                 "by": "Polska Fundacja Przedsiębiorczości"
@@ -685,6 +688,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "hack4law22": {
+                "title": "Hack4Law 2022 Certificate of Appreciation"
+            },
             "cpp1": {
                 "title": "C++ - Part 1 - Programme structure",
                 "by": "Polish Entrepreneurship Foundation"
