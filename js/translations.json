@@ -242,6 +242,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "aceintro": {
+                "title": "Wprowadzenie i Poradnik do Programu ACE Engineering"
+            },
             "vuejsforge2": {
                 "title": "Uczestnictwo w Vue.js Forge Epizod 2"
             },
@@ -675,6 +678,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "aceintro": {
+                "title": "Introduction & Guide to the Engineering ACE Curriculum"
+            },
             "vuejsforge2": {
                 "title": "Vue.js Forge Episode 2 Participation"
             },
