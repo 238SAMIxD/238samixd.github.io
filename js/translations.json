@@ -242,6 +242,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "cxeventmanagement": {
+                "title": "Zarządzanie Wydarzeniami w Programie Carrier Excellence"
+            },
             "aceintro": {
                 "title": "Wprowadzenie i Poradnik do Programu ACE Engineering"
             },
@@ -678,6 +681,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "cxeventmanagement": {
+                "title": "Carrier Excellence Event Management in CxCP"
+            },
             "aceintro": {
                 "title": "Introduction & Guide to the Engineering ACE Curriculum"
             },
