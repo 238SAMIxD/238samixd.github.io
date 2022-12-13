@@ -242,6 +242,10 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "cpp1": {
+                "title": "C++ - Część 1 - Struktura programu",
+                "by": "Polska Fundacja Przedsiębiorczości"
+            },
             "cxeventmanagement": {
                 "title": "Zarządzanie Wydarzeniami w Programie Carrier Excellence"
             },
@@ -681,6 +685,10 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "cpp1": {
+                "title": "C++ - Part 1 - Programme structure",
+                "by": "Polish Entrepreneurship Foundation"
+            },
             "cxeventmanagement": {
                 "title": "Carrier Excellence Event Management in CxCP"
             },
