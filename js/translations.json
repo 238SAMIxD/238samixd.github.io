@@ -132,6 +132,7 @@
         "projects": {
             "title": "Projekty",
             "preview": "Podgląd",
+            "download": "Pobierz",
             "websockets-starter": {
                 "title": "Repozytorium do nauki Websockets",
                 "desc": "Repozytorium do nauki i poznania Websockets"
@@ -578,6 +579,7 @@
         "projects": {
             "title": "Projects",
             "preview": "Preview",
+            "download": "Download",
             "websockets-starter": {
                 "title": "Websockets learning repository",
                 "desc": "Repository for Websockets learning purposes"
