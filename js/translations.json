@@ -133,6 +133,10 @@
             "title": "Projekty",
             "preview": "Podgląd",
             "download": "Pobierz",
+            "zombie-shooter": {
+                "title": "Gra Zombie Shooter",
+                "desc": "Prosta gra FPS stworzona na kurs Unity i C# w OKE Software prowadzony przez Wojciecha Bilickiego"
+            },
             "websockets-starter": {
                 "title": "Repozytorium do nauki Websockets",
                 "desc": "Repozytorium do nauki i poznania Websockets"
@@ -580,6 +584,10 @@
             "title": "Projects",
             "preview": "Preview",
             "download": "Download",
+            "zombie-shooter": {
+                "title": "Zombie Shooter Video Game",
+                "desc": "Pretty simple FPS game made for the OKE Software Unity and C# live course provided by Wojciech Bilicki"
+            },
             "websockets-starter": {
                 "title": "Websockets learning repository",
                 "desc": "Repository for Websockets learning purposes"
