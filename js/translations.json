@@ -247,6 +247,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "elitedefender2022": {
+                "title": "Program Ochrony Przedsiębiorstwa Cyberbezpieczeństwo 2022"
+            },
             "hack4law22": {
                 "title": "Certyfikat uznania Hackathon Hack4Law 2022"
             },
@@ -698,6 +701,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "elitedefender2022": {
+                "title": "Cybersecurity Enterprise Defenders Program"
+            },
             "hack4law22": {
                 "title": "Hack4Law 2022 Certificate of Appreciation"
             },
