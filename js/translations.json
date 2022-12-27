@@ -247,6 +247,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "gamingmarketing": {
+                "title": "Kurs Marketingu Gier"
+            },
             "elitedefender2022": {
                 "title": "Program Ochrony Przedsiębiorstwa Cyberbezpieczeństwo 2022"
             },
@@ -701,6 +704,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "gamingmarketing": {
+                "title": "Gaming Marketing Course"
+            },
             "elitedefender2022": {
                 "title": "Cybersecurity Enterprise Defenders Program"
             },
