@@ -111,6 +111,10 @@
         },
         "edu": {
             "title": "Edukacja",
+            "xamk": {
+                "title": "Uniwersytet Nauk Stosowanych w Południowo-Wschodniej Finlandii",
+                "desc": "Udział w kursie Wprowadzenie do Tworzenia Gier Wideo 25ECTS"
+            },
             "pg": {
                 "title": "Politechnika Gdańska",
                 "desc": "Student inżynierskiego kierunku Informatyka 2020-2022 stacjonarnie, 2022- niestacjonarnie"
@@ -568,6 +572,10 @@
         },
         "edu": {
             "title": "Education",
+            "xamk": {
+                "title": "XAMK - South-Eastern Finland University of Applied Sciences",
+                "desc": "Taking part in the Introduction to Video Games Creation 25 ECTS course"
+            },
             "pg": {
                 "title": "Gdansk University of Technology",
                 "desc": "Computer Science student for Engineer's degree 2020-2022 full-time, 2022- part-time"
