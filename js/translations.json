@@ -441,6 +441,10 @@
         },
         "orgs": {
             "title": "Organizacje",
+            "ceneo": {
+                "title": "Partner",
+                "desc": "Partner Ceneo"
+            },
             "humblebundle": {
                 "title": "Skromny Partner",
                 "desc": "Partner Humble Bundle"
@@ -910,6 +914,10 @@
         },
         "orgs": {
             "title": "Organizations",
+            "ceneo": {
+                "title": "Partner",
+                "desc": "Partner of Ceneo"
+            },
             "humblebundle": {
                 "title": "Humble Partner",
                 "desc": "Humble Bundle Partner"
