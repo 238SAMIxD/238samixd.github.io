@@ -441,6 +441,10 @@
         },
         "orgs": {
             "title": "Organizacje",
+            "fanatical": {
+                "title": "Oficjalny Partner",
+                "desc": "Oficjalny Partner Fanatical"
+            },
             "nsfft": {
                 "title": "Front-End Engineer",
                 "desc": "Niepowtarzalny projekt charytatywny na Binance Smart Chain"
@@ -902,6 +906,10 @@
         },
         "orgs": {
             "title": "Organizations",
+            "fanatical": {
+                "title": "Official Partner",
+                "desc": "Official Partner of Fanatical"
+            },
             "nsfft": {
                 "title": "Front-End Engineer",
                 "desc": "Unique charity project on Binance Smart Chain"
