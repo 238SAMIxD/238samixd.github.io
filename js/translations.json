@@ -441,6 +441,10 @@
         },
         "orgs": {
             "title": "Organizacje",
+            "humblebundle": {
+                "title": "Skromny Partner",
+                "desc": "Partner Humble Bundle"
+            },
             "fanatical": {
                 "title": "Oficjalny Partner",
                 "desc": "Oficjalny Partner Fanatical"
@@ -906,6 +910,10 @@
         },
         "orgs": {
             "title": "Organizations",
+            "humblebundle": {
+                "title": "Humble Partner",
+                "desc": "Humble Bundle Partner"
+            },
             "fanatical": {
                 "title": "Official Partner",
                 "desc": "Official Partner of Fanatical"
