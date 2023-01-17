@@ -163,7 +163,7 @@ h5 {
   font-size: 1.15rem;
 }
 
-#work>div {
+#work>.w3-container>div {
   position: relative;
 }
 
