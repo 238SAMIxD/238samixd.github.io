@@ -251,6 +251,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "blockchainbasics": {
+                "title": "Kurs Blockchain od podstaw"
+            },
             "gamingmarketing": {
                 "title": "Kurs Marketingu Gier"
             },
@@ -724,6 +727,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "blockchainbasics": {
+                "title": "Blockchain Basics Course"
+            },
             "gamingmarketing": {
                 "title": "Gaming Marketing Course"
             },
