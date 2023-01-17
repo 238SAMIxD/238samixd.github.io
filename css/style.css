@@ -163,6 +163,10 @@ h5 {
   font-size: 1.15rem;
 }
 
+#work>div {
+  position: relative;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -233,10 +237,6 @@ h5 {
   background-repeat: no-repeat;
   background-size: contain;
   transition: filter 200ms ease-in-out;
-}
-
-.company-logo.second {
-  top: 10em;
 }
 
 .company-logo:hover {
