@@ -9,6 +9,10 @@ h6 {
   font-family: "Roboto", sans-serif;
 }
 
+h5 {
+  max-width: calc(100% - 5em);
+}
+
 .dark-bg {
   background: #2C3B42;
 }
