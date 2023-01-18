@@ -727,6 +727,12 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "neo4jfundamentals": {
+                "title": "Podstawy Neo4j"
+            },
+            "neo4jfundamentals": {
+                "title": "Neo4j Fundamentals"
+            },
             "blockchainbasics": {
                 "title": "Blockchain Basics Course"
             },
