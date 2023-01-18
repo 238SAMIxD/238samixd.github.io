@@ -251,6 +251,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "neo4jfundamentals": {
+                "title": "Podstawy Neo4j"
+            },
             "blockchainbasics": {
                 "title": "Kurs Blockchain od podstaw"
             },
@@ -727,9 +730,6 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
-            "neo4jfundamentals": {
-                "title": "Podstawy Neo4j"
-            },
             "neo4jfundamentals": {
                 "title": "Neo4j Fundamentals"
             },
