@@ -233,7 +233,7 @@ h5 {
   --bg-clr: #516e7b;
   position: absolute;
   top: 0;
-  right: 1em;
+  right: 16px;
   width: 5em;
   aspect-ratio: 1;
   cursor: pointer;
