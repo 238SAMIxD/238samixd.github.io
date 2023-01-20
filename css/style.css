@@ -167,6 +167,10 @@ h5 {
   position: relative;
 }
 
+#work>.w3-container>div .company-logo {
+  right: 0;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -223,8 +227,6 @@ h5 {
 
 .w3-container {
   position: relative;
-  padding-inline: 0;
-  margin-inline: 16px;
 }
 
 .company-logo {
