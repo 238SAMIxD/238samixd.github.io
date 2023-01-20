@@ -223,6 +223,7 @@ h5 {
 
 .w3-container {
   position: relative;
+  padding-inline: 0;
 }
 
 .company-logo {
