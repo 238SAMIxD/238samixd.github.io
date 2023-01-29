@@ -227,6 +227,10 @@
         },
         "volunteering": {
             "title": "Wolontariat",
+            "devgamm": {
+                "title": "Wkrótce",
+                "desc": "Wolontariusz na konferencji DevGAMM Gdańsk 2023. Dokładna rola zostanie podana w przyszłości"
+            },
             "ihf": {
                 "title": "Obsługa Oprawy Meczowej",
                 "desc": "Pomoc w ogranizacji Mistrzostw Świata w Piłce Ręcznej 2023. Obsługa w trakcie meczu - niesienie flag"
@@ -706,6 +710,10 @@
         },
         "volunteering": {
             "title": "Volunteering",
+            "devgamm": {
+                "title": "TBD",
+                "desc": "Volunteer at DevGAMM Gdańsk 2023 Conference. Specific role will be determined later on"
+            },
             "ihf": {
                 "title": "Game Ceremony Service",
                 "desc": "Helping in IHF World Championship 2023 organization. Service during the game - carrying the flags"
