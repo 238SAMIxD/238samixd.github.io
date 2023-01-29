@@ -255,6 +255,10 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "ihfworld2023": {
+                "title": "28. Mistrzostwa Świata Mężczyzn w Piłce Ręcznej 2023 Polska/Szwecja",
+                "by": "Związek Piłki Ręcznej w Polsce"
+            },
             "neo4jfundamentals": {
                 "title": "Podstawy Neo4j"
             },
@@ -738,6 +742,10 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "ihfworld2023": {
+                "title": "28th Men's World Championship 2023 Poland/Sweden",
+                "by": "Polish Handball Federation"
+            },
             "neo4jfundamentals": {
                 "title": "Neo4j Fundamentals"
             },
