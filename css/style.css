@@ -229,11 +229,22 @@ h5 {
   position: relative;
 }
 
+.stack {
+  display: flex;
+  gap: .5em;
+  max-width: calc(100% - 5em);
+  margin: .5em 0;
+}
+
 .company {
   position: absolute;
   top: 0;
   right: 16px;
   width: 5em;
+}
+
+.product {
+  width: 1.5em;
 }
 
 .logo {
