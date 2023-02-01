@@ -52,6 +52,7 @@
         },
         "work": {
             "title": "Doświadczenie zawodowe",
+            "stack": "Technologie:",
             "realme": {
                 "name": "realme",
                 "title": "Model",
@@ -540,6 +541,7 @@
         },
         "work": {
             "title": "Work experience",
+            "stack": "Stack:",
             "realme": {
                 "name": "realme",
                 "title": "Model",
