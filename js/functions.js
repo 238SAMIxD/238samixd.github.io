@@ -2,17 +2,17 @@ loadCompanyLogos();
 loadAssessments();
 
 function loadCompanyLogos() {
-    const divs = document.querySelectorAll(".company-logo");
+    const divs = document.querySelectorAll(".logo");
 
-    divs.forEach( div => {
+    divs.forEach(div => {
         div.style.backgroundImage = `url("img/${div.dataset.src}")`;
     });
 }
 
 function loadAssessments() {
-	const divs = document.querySelectorAll(".assessment");
-	
-	divs.forEach( div => {
+    const divs = document.querySelectorAll(".assessment");
+
+    divs.forEach(div => {
         div.style.backgroundImage = `url("img/${div.dataset.src}")`;
     });
 }
