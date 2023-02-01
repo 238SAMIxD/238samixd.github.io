@@ -167,7 +167,7 @@ h5 {
   position: relative;
 }
 
-#work>.w3-container>div .company-logo {
+#work>.w3-container>div .company {
   right: 0;
 }
 
@@ -229,12 +229,15 @@ h5 {
   position: relative;
 }
 
-.company-logo {
-  --bg-clr: #516e7b;
+.company {
   position: absolute;
   top: 0;
   right: 16px;
   width: 5em;
+}
+
+.logo {
+  --bg-clr: #516e7b;
   aspect-ratio: 1;
   cursor: pointer;
   background-position: center;
@@ -243,19 +246,19 @@ h5 {
   transition: filter 200ms ease-in-out;
 }
 
-.company-logo:hover {
+.logo:hover {
   filter: brightness(1.2);
 }
 
-.company-logo::before,
-.company-logo::after {
+.logo::before,
+.logo::after {
   content: '';
   position: absolute;
   background-color: var(--bg-clr);
   transform-origin: bottom;
 }
 
-.company-logo::before {
+.logo::before {
   bottom: 100%;
   left: 50%;
   transform: translateX(-50%) scaleY(0);
@@ -265,7 +268,7 @@ h5 {
   aspect-ratio: 2;
 }
 
-.company-logo::after {
+.logo::after {
   content: attr(data-title);
   bottom: calc(100% + .5rem);
   right: 0;
@@ -276,11 +279,11 @@ h5 {
   transition: transform 100ms ease-in-out;
 }
 
-.company-logo:hover::before {
+.logo:hover::before {
   transform: translateX(-50%) scaleY(1);
 }
 
-.company-logo:hover::after {
+.logo:hover::after {
   transform: scaleY(1);
 }
 
