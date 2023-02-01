@@ -236,17 +236,6 @@ h5 {
   margin: .5em 0;
 }
 
-.company {
-  position: absolute;
-  top: 0;
-  right: 16px;
-  width: 5em;
-}
-
-.product {
-  width: 1.5em;
-}
-
 .logo {
   --bg-clr: #516e7b;
   aspect-ratio: 1;
@@ -296,6 +285,17 @@ h5 {
 
 .logo:hover::after {
   transform: scaleY(1);
+}
+
+.company {
+  position: absolute;
+  top: 0;
+  right: 16px;
+  width: 5em;
+}
+
+.product {
+  width: 1.5em;
 }
 
 .product::after {
