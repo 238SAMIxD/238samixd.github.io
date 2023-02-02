@@ -234,6 +234,7 @@ h5 {
   gap: .5em;
   max-width: calc(100% - 5em);
   margin: .5em 0;
+  flex-wrap: wrap;
 }
 
 .logo {
