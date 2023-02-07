@@ -257,6 +257,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "businessethics": {
+                "title": "Etyka Biznesowa"
+            },
             "ihfworld2023": {
                 "title": "28. Mistrzostwa Świata Mężczyzn w Piłce Ręcznej 2023 Polska/Szwecja",
                 "by": "Związek Piłki Ręcznej w Polsce"
@@ -746,6 +749,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "businessethics": {
+                "title": "Business Ethics"
+            },
             "ihfworld2023": {
                 "title": "28th Men's World Championship 2023 Poland/Sweden",
                 "by": "Polish Handball Federation"
