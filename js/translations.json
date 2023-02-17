@@ -257,6 +257,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "customerexperience": {
+                "title": "Doświadczenie Klienta"
+            },
             "businessethics": {
                 "title": "Etyka Biznesowa"
             },
@@ -749,6 +752,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "customerexperience": {
+                "title": "Customer Experience"
+            },
             "businessethics": {
                 "title": "Business Ethics"
             },
