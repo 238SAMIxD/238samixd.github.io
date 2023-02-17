@@ -257,6 +257,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "okeunity": {
+                "title": "Podstawy programowania gier komputerowych z użyciem języka C# oraz Unity3d"
+            },
             "customerexperience": {
                 "title": "Doświadczenie Klienta"
             },
@@ -752,6 +755,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "okeunity": {
+                "title": "Video Games Programming usin C# and Unity3d"
+            },
             "customerexperience": {
                 "title": "Customer Experience"
             },
