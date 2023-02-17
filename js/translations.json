@@ -230,8 +230,8 @@
         "volunteering": {
             "title": "Wolontariat",
             "devgamm": {
-                "title": "Wkrótce",
-                "desc": "Wolontariusz na konferencji DevGAMM Gdańsk 2023. Dokładna rola zostanie podana w przyszłości"
+                "title": "Menedżer Sceny",
+                "desc": "Wolontariusz na konferencji DevGAMM Gdańsk 2023. Odpowiedzialny za moderowanie prezentacji oraz sesji pytań i odpowiedzi"
             },
             "ihf": {
                 "title": "Obsługa Oprawy Meczowej",
@@ -725,8 +725,8 @@
         "volunteering": {
             "title": "Volunteering",
             "devgamm": {
-                "title": "TBD",
-                "desc": "Volunteer at DevGAMM Gdańsk 2023 Conference. Specific role will be determined later on"
+                "title": "Stage Manager",
+                "desc": "Volunteer at DevGAMM Gdańsk 2023 Conference. Responsile for moderating presentations and Q&A sessions"
             },
             "ihf": {
                 "title": "Game Ceremony Service",
