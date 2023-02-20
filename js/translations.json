@@ -257,6 +257,10 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "xamkintrocryptonft": {
+                "title": "Introduction to Crypto Currencies, Finance, DAOs and NFTs",
+                "by": "Uniwersytet Nauk Stosowanych w Południowo-Wschodniej Finlandii"
+            },
             "okeunity": {
                 "title": "Podstawy programowania gier komputerowych z użyciem języka C# oraz Unity3d"
             },
@@ -755,8 +759,12 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "xamkintrocryptonft": {
+                "title": "Introduction to Crypto Currencies, Finance, DAOs and NFTs",
+                "by": "South-Eastern Finland University of Applied Sciences"
+            },
             "okeunity": {
-                "title": "Video Games Programming usin C# and Unity3d"
+                "title": "Video Games Programming using C# and Unity3d"
             },
             "customerexperience": {
                 "title": "Customer Experience"
