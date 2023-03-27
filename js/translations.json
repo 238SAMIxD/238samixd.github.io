@@ -257,6 +257,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "devgamm": {
+                "title": "Certyfikat Uznania"
+            },
             "xamkintrocryptonft": {
                 "title": "Wprowadzenie do Kryptowalut, Finansów, DAO oraz NFT",
                 "by": "Uniwersytet Nauk Stosowanych w Południowo-Wschodniej Finlandii"
@@ -759,6 +762,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "devgamm": {
+                "title": "Certificate of Appreciation"
+            },
             "xamkintrocryptonft": {
                 "title": "Introduction to Crypto Currencies, Finance, DAOs and NFTs",
                 "by": "South-Eastern Finland University of Applied Sciences"
