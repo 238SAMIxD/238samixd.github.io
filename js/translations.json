@@ -257,6 +257,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "coidefrenzy": {
+                "title": "Uczestnictwo w CodeFrenzy 2023"
+            },
             "devgamm": {
                 "title": "Certyfikat Uznania"
             },
@@ -762,6 +765,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "codefrenzy": {
+                "title": "CodeFrenzy 2023 Attendee"
+            },
             "devgamm": {
                 "title": "Certificate of Appreciation"
             },
