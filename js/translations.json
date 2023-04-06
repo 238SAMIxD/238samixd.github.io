@@ -257,6 +257,9 @@
         "certs": {
             "title": "Certyfikaty",
             "certificate": "Certyfikat",
+            "wdi23": {
+                "title": "CERTYFIKAT UCZESTNICTWA w konferencji Warszawskie Dni Informatyki 2023"
+            },
             "codefrenzy": {
                 "title": "Uczestnictwo w CodeFrenzy 2023"
             },
@@ -765,6 +768,9 @@
         "certs": {
             "title": "Certificates",
             "certificate": "Certificate",
+            "wdi23": {
+                "title": "Warsaw Days of Informatics Conference 2023 Attendaee"
+            },
             "codefrenzy": {
                 "title": "CodeFrenzy 2023 Attendee"
             },
