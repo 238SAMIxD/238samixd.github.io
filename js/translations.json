@@ -258,7 +258,7 @@
       "title": "Certyfikaty",
       "certificate": "Certyfikat",
       "eliteprophishing23": {
-        "title": "Elite Pro Phishing Competition Winner (Mar 2023)"
+        "title": "Laureat Konkursu Phishingowego Elite Pro (Mar 2023)"
       },
       "wdi23": {
         "title": "CERTYFIKAT UCZESTNICTWA w konferencji Warszawskie Dni Informatyki 2023",
@@ -772,6 +772,9 @@
     "certs": {
       "title": "Certificates",
       "certificate": "Certificate",
+      "eliteprophishing23": {
+        "title": "Elite Pro Phishing Competition Winner (Mar 2023)"
+      },
       "wdi23": {
         "title": "Warsaw Days of Informatics Conference 2023 Attendaee",
         "by": "Academic Partners Foundation"
