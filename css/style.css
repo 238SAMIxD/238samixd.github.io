@@ -229,6 +229,8 @@ h5 {
 }
 
 .pdf {
+  text-decoration: none;
+  font-style: italic;
 }
 
 #work > .w3-container > div {
