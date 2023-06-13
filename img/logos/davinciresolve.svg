@@ -2,7 +2,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 504 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <g id="Logo_DavinciResolve" transform="matrix(1,0,0,1,-210.431,-46.077)">
-        <rect x="210.431" y="46.077" width="504" height="504" style="fill:rgb(235,235,235);"/>
         <g id="DavinciLogo" transform="matrix(2.67852,0,0,2.67852,365.43,281.308)">
             <g id="outline__gradation" transform="matrix(0.373341,-0,-0,0.373341,-57.8676,-87.8214)">
                 <use xlink:href="#_Image1" x="2.431" y="1.077" width="500px" height="500px"/>
