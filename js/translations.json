@@ -139,6 +139,10 @@
       "title": "Projekty",
       "preview": "Podgląd",
       "download": "Pobierz",
+      "orvideos": {
+        "title": "Filmiki zmontowane przeze mnie dla OR",
+        "desc": "Playlista z filmikami stworzonymi przeze mnie lub z moim udziałem na kanale Opiekunowie Runeterry"
+      },
       "zombie-shooter": {
         "title": "Gra Zombie Shooter",
         "desc": "Prosta gra FPS stworzona na kurs Unity i C# w OKE Software prowadzony przez Wojciecha Bilickiego"
@@ -654,6 +658,10 @@
       "title": "Projects",
       "preview": "Preview",
       "download": "Download",
+      "orvideos": {
+        "title": "My video edits for OR",
+        "desc": "A playlist to bundle all the videos I made or took part in for Opiekunowie Runeterry"
+      },
       "zombie-shooter": {
         "title": "Zombie Shooter Video Game",
         "desc": "Pretty simple FPS game made for the OKE Software Unity and C# live course provided by Wojciech Bilicki"
