@@ -14,7 +14,7 @@ h5 {
 }
 
 .dark-bg {
-  background: #2C3B42;
+  background: #2c3b42;
 }
 
 .change {
@@ -37,13 +37,13 @@ h5 {
   background: black;
   padding: 2px;
   border-radius: 5%;
-  filter: grayscale(.9);
+  filter: grayscale(0.9);
   cursor: pointer;
   transition: filter 150ms ease-in-out;
 }
 
 .flag:hover {
-  filter: grayscale(.1);
+  filter: grayscale(0.1);
 }
 
 .pl {
@@ -80,94 +80,162 @@ h5 {
 .cross {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(0 calc(9.5/24 * 100%), calc(21.5/48 * 100%) calc(9.5/24 * 100%), calc(21.5/48 * 100%) 0, calc(26/48 * 100%) 0, calc(26/48 * 100%) calc(9.5/24 * 100%), 100% calc(9.5/24 * 100%), 100% calc(14.5/24 * 100%), calc(26/48 * 100%) calc(14.5/24 * 100%), calc(26/48 * 100%) 100%, calc(21.5/48 * 100%) 100%, calc(21.5/48 * 100%) calc(14.5/24 * 100%), 0 calc(14.5/24 * 100%));
+  clip-path: polygon(
+    0 calc(9.5 / 24 * 100%),
+    calc(21.5 / 48 * 100%) calc(9.5 / 24 * 100%),
+    calc(21.5 / 48 * 100%) 0,
+    calc(26 / 48 * 100%) 0,
+    calc(26 / 48 * 100%) calc(9.5 / 24 * 100%),
+    100% calc(9.5 / 24 * 100%),
+    100% calc(14.5 / 24 * 100%),
+    calc(26 / 48 * 100%) calc(14.5 / 24 * 100%),
+    calc(26 / 48 * 100%) 100%,
+    calc(21.5 / 48 * 100%) 100%,
+    calc(21.5 / 48 * 100%) calc(14.5 / 24 * 100%),
+    0 calc(14.5 / 24 * 100%)
+  );
 }
 
 .left-top-left-triangle {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(0 calc(2.5/24 * 100%), 0 calc(8/24 * 100%), calc(10.5/48 * 100%) calc(8/24 * 100%));
+  clip-path: polygon(
+    0 calc(2.5 / 24 * 100%),
+    0 calc(8 / 24 * 100%),
+    calc(10.5 / 48 * 100%) calc(8 / 24 * 100%)
+  );
 }
 
 .left-top-right-triangle {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(calc(5.5/48 * 100%) 0, calc(20/48 * 100%) 0, calc(20/48 * 100%) calc(7.5/24 * 100%));
+  clip-path: polygon(
+    calc(5.5 / 48 * 100%) 0,
+    calc(20 / 48 * 100%) 0,
+    calc(20 / 48 * 100%) calc(7.5 / 24 * 100%)
+  );
 }
 
 .right-top-left-triangle {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(calc(42.5/48 * 100%) 0, calc(28/48 * 100%) 0, calc(28/48 * 100%) calc(7.5/24 * 100%));
+  clip-path: polygon(
+    calc(42.5 / 48 * 100%) 0,
+    calc(28 / 48 * 100%) 0,
+    calc(28 / 48 * 100%) calc(7.5 / 24 * 100%)
+  );
 }
 
 .right-top-right-triangle {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(100% calc(2.5/24 * 100%), 100% calc(8/24 * 100%), calc(37.5/48 * 100%) calc(8/24 * 100%));
+  clip-path: polygon(
+    100% calc(2.5 / 24 * 100%),
+    100% calc(8 / 24 * 100%),
+    calc(37.5 / 48 * 100%) calc(8 / 24 * 100%)
+  );
 }
 
 .right-bottom-right-triangle {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(100% calc(21.5/24 * 100%), 100% calc(16/24 * 100%), calc(37.5/48 * 100%) calc(16/24 * 100%));
+  clip-path: polygon(
+    100% calc(21.5 / 24 * 100%),
+    100% calc(16 / 24 * 100%),
+    calc(37.5 / 48 * 100%) calc(16 / 24 * 100%)
+  );
 }
 
 .right-bottom-left-triangle {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(calc(42.5/48 * 100%) 100%, calc(28/48 * 100%) 100%, calc(28/48 * 100%) calc(16.5/24 * 100%));
+  clip-path: polygon(
+    calc(42.5 / 48 * 100%) 100%,
+    calc(28 / 48 * 100%) 100%,
+    calc(28 / 48 * 100%) calc(16.5 / 24 * 100%)
+  );
 }
 
 .left-bottom-left-triangle {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(0 calc(21.5/24 * 100%), 0 calc(16/24 * 100%), calc(10.5/48 * 100%) calc(16/24 * 100%));
+  clip-path: polygon(
+    0 calc(21.5 / 24 * 100%),
+    0 calc(16 / 24 * 100%),
+    calc(10.5 / 48 * 100%) calc(16 / 24 * 100%)
+  );
 }
 
 .left-bottom-right-triangle {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(calc(5.5/48 * 100%) 100%, calc(20/48 * 100%) 100%, calc(20/48 * 100%) calc(16.5/24 * 100%));
+  clip-path: polygon(
+    calc(5.5 / 48 * 100%) 100%,
+    calc(20 / 48 * 100%) 100%,
+    calc(20 / 48 * 100%) calc(16.5 / 24 * 100%)
+  );
 }
 
 .left-bottom-diagonal {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(0 100%, calc(16/48 * 100%) calc(16/24 * 100%), calc(19.5/48 * 100%) calc(16/24 * 100%), calc(3.5/48 * 100%) 100%);
+  clip-path: polygon(
+    0 100%,
+    calc(16 / 48 * 100%) calc(16 / 24 * 100%),
+    calc(19.5 / 48 * 100%) calc(16 / 24 * 100%),
+    calc(3.5 / 48 * 100%) 100%
+  );
 }
 
 .left-top-diagonal {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(0 0, calc(16/48 * 100%) calc(8/24 * 100%), calc(12.5/48 * 100%) calc(8/24 * 100%), 0 calc(1.5/24 * 100%));
+  clip-path: polygon(
+    0 0,
+    calc(16 / 48 * 100%) calc(8 / 24 * 100%),
+    calc(12.5 / 48 * 100%) calc(8 / 24 * 100%),
+    0 calc(1.5 / 24 * 100%)
+  );
 }
 
 .right-top-diagonal {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(calc(44.5/48 * 100%) 0, 100% 0, calc(32/48 * 100%) calc(8/24 * 100%), calc(28.5/48 * 100%) calc(8/24 * 100%));
+  clip-path: polygon(
+    calc(44.5 / 48 * 100%) 0,
+    100% 0,
+    calc(32 / 48 * 100%) calc(8 / 24 * 100%),
+    calc(28.5 / 48 * 100%) calc(8 / 24 * 100%)
+  );
 }
 
 .right-bottom-diagonal {
   position: absolute;
   inset: 2px;
-  clip-path: polygon(calc(35.5/48 * 100%) calc(16/24 * 100%), calc(32/48 * 100%) calc(16/24 * 100%), 100% 100%, 100% calc(22.5/24 * 100%));
+  clip-path: polygon(
+    calc(35.5 / 48 * 100%) calc(16 / 24 * 100%),
+    calc(32 / 48 * 100%) calc(16 / 24 * 100%),
+    100% 100%,
+    100% calc(22.5 / 24 * 100%)
+  );
 }
 
 .text-small {
-  font-size: .85rem;
+  font-size: 0.85rem;
 }
 
 .text-big {
   font-size: 1.15rem;
 }
 
-#work>.w3-container>div {
+.pdf {
+}
+
+#work > .w3-container > div {
   position: relative;
 }
 
-#work>.w3-container>div .company {
+#work > .w3-container > div .company {
   right: 0;
 }
 
@@ -176,17 +244,17 @@ h5 {
   grid-template-columns: repeat(3, 1fr);
 }
 
-.grid>div {
+.grid > div {
   position: relative;
 }
 
-.grid>div::before,
-.grid>div::after {
-  content: '';
+.grid > div::before,
+.grid > div::after {
+  content: "";
   background: #fff;
 }
 
-.grid>div:not(:nth-last-child(-n+3))::before {
+.grid > div:not(:nth-last-child(-n + 3))::before {
   position: absolute;
   bottom: 0;
   width: 50%;
@@ -194,7 +262,7 @@ h5 {
   border-radius: 50%;
 }
 
-.grid>div:not(:nth-child(3n))::after {
+.grid > div:not(:nth-child(3n))::after {
   position: absolute;
   top: 20%;
   right: 0;
@@ -203,26 +271,26 @@ h5 {
   border-radius: 50%;
 }
 
-.grid>div:last-child::after {
+.grid > div:last-child::after {
   width: 0;
 }
 
-.grid>div>p {
+.grid > div > p {
   margin-bottom: calc(3rem + 16px);
 }
 
-.grid>div a {
+.grid > div a {
   position: absolute;
   bottom: 0;
   transition: background-color 150ms ease-in-out;
 }
 
-.grid>div a:nth-of-type(2) {
+.grid > div a:nth-of-type(2) {
   right: 0;
 }
 
 .highlight {
-  opacity: .8 !important;
+  opacity: 0.8 !important;
 }
 
 .w3-container {
@@ -231,9 +299,9 @@ h5 {
 
 .stack {
   display: flex;
-  gap: .5em;
+  gap: 0.5em;
   max-width: calc(100% - 5em);
-  margin: .5em 0;
+  margin: 0.5em 0;
   flex-wrap: wrap;
 }
 
@@ -253,7 +321,7 @@ h5 {
 
 .logo::before,
 .logo::after {
-  content: '';
+  content: "";
   position: absolute;
   background-color: var(--bg-clr);
   transform-origin: bottom;
@@ -271,11 +339,11 @@ h5 {
 
 .logo::after {
   content: attr(data-title);
-  bottom: calc(100% + .5rem);
+  bottom: calc(100% + 0.5rem);
   right: 0;
   width: max-content;
-  padding: .25rem .5rem;
-  border-radius: .25rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
   transform: scaleY(0);
   transition: transform 100ms ease-in-out;
 }
@@ -319,16 +387,16 @@ h5 {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .grid>div:not(:nth-last-child(-n+3))::before {
+  .grid > div:not(:nth-last-child(-n + 3))::before {
     all: initial;
   }
 
-  .grid>div:not(:nth-child(3n))::after {
+  .grid > div:not(:nth-child(3n))::after {
     all: initial;
   }
 
-  .grid>div:not(:nth-last-child(-n+2))::before {
-    content: '';
+  .grid > div:not(:nth-last-child(-n + 2))::before {
+    content: "";
     background: #fff;
     position: absolute;
     bottom: 0;
@@ -336,8 +404,8 @@ h5 {
     height: 1px;
   }
 
-  .grid>div:not(:nth-child(2n))::after {
-    content: '';
+  .grid > div:not(:nth-child(2n))::after {
+    content: "";
     background: #fff;
     position: absolute;
     top: 20%;
@@ -347,7 +415,7 @@ h5 {
     border-radius: 50%;
   }
 
-  .grid>div:last-child::after {
+  .grid > div:last-child::after {
     width: 0;
   }
 }
@@ -357,17 +425,17 @@ h5 {
     grid-template-columns: repeat(1, 1fr);
   }
 
-  .grid>div::before {
+  .grid > div::before {
     all: initial;
   }
 
-  .grid>div::after {
+  .grid > div::after {
     all: initial;
     height: 0 !important;
   }
 
-  .grid>div:not(:last-child)::before {
-    content: '';
+  .grid > div:not(:last-child)::before {
+    content: "";
     background: #fff;
     position: absolute;
     bottom: 0;
