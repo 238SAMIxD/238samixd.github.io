@@ -35,7 +35,9 @@
       "pl": "Polski",
       "en": "Angielski",
       "de": "Niemiecki",
-      "native": "Ojczysty"
+      "fr": "Francuski",
+      "native": "Ojczysty",
+      "starter": "Zaczynam"
     },
     "hobbys": {
       "title": "Zainteresowania",
@@ -562,7 +564,9 @@
       "pl": "Polish",
       "en": "English",
       "de": "German",
-      "native": "Native"
+      "fr": "French",
+      "native": "Native",
+      "starter": "Starter"
     },
     "hobbys": {
       "title": "Hobbys",
