@@ -233,6 +233,10 @@
     },
     "volunteering": {
       "title": "Wolontariat",
+      "rcwgdansk": {
+        "title": "Zarejestrowany Wolontariusz",
+        "desc": "Zarejestrowany i zweryfikowany wolontariusz na https://wolontariatgdansk.pl/"
+      },
       "devgamm": {
         "title": "Menedżer Sceny",
         "desc": "Wolontariusz na konferencji DevGAMM Gdańsk 2023. Odpowiedzialny za moderowanie prezentacji oraz sesji pytań i odpowiedzi"
@@ -752,6 +756,10 @@
     },
     "volunteering": {
       "title": "Volunteering",
+      "rcwgdansk": {
+        "title": "Registered Volunteer",
+        "desc": "Registered and confirmed volunteer on https://wolontariatgdansk.pl/"
+      },
       "devgamm": {
         "title": "Stage Manager",
         "desc": "Volunteer at DevGAMM Gdańsk 2023 Conference. Responsile for moderating presentations and Q&A sessions"
