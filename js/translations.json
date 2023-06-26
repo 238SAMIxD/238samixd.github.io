@@ -233,6 +233,10 @@
     },
     "volunteering": {
       "title": "Wolontariat",
+      "feta2023": {
+        "title": "Wkrótce",
+        "desc": "Oczekiwanie na przypisanie roli"
+      },
       "rcwgdansk": {
         "title": "Zarejestrowany Wolontariusz",
         "desc": "Zarejestrowany i zweryfikowany wolontariusz na https://wolontariatgdansk.pl/"
@@ -756,6 +760,10 @@
     },
     "volunteering": {
       "title": "Volunteering",
+      "feta2023": {
+        "title": "TBD",
+        "desc": "Waiting for the specific role"
+      },
       "rcwgdansk": {
         "title": "Registered Volunteer",
         "desc": "Registered and confirmed volunteer on https://wolontariatgdansk.pl/"
