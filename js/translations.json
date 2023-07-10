@@ -271,6 +271,10 @@
     "certs": {
       "title": "Certyfikaty",
       "certificate": "Certyfikat",
+      "feta2023": {
+        "title": "Zaświadczenie o Wolontariacie - FETA 2023",
+        "by": "Gdański Archipelag Kultury"
+      },
       "businessofai": {
         "title": "Standardowe Aplikacje Biznesowe ze Sztuczną Inteligencją (SI)"
       },
@@ -806,6 +810,10 @@
     "certs": {
       "title": "Certificates",
       "certificate": "Certificate",
+      "feta2023": {
+        "title": "Certificate of Appreciation - FETA 2023 Volunteer",
+        "by": "Culture Archipelago of Gdansk"
+      },
       "businessofai": {
         "title": "Common Business Applications of Artificial Intelligence (AI)"
       },
