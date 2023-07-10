@@ -271,6 +271,9 @@
     "certs": {
       "title": "Certyfikaty",
       "certificate": "Certyfikat",
+      "businessofai": {
+        "title": "Standardowe Aplikacje Biznesowe ze Sztuczną Inteligencją (SI)"
+      },
       "onguard82update": {
         "title": "OnGuard 8.2 Aktualizacja Certyfikacji"
       },
@@ -803,6 +806,9 @@
     "certs": {
       "title": "Certificates",
       "certificate": "Certificate",
+      "businessofai": {
+        "title": "Common Business Applications of Artificial Intelligence (AI)"
+      },
       "onguard82update": {
         "title": "OnGuard 8.2 Associate Certification Update"
       },
