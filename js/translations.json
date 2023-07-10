@@ -271,6 +271,9 @@
     "certs": {
       "title": "Certyfikaty",
       "certificate": "Certyfikat",
+      "onguard82update": {
+        "title": "OnGuard 8.2 Aktualizacja Certyfikacji"
+      },
       "eliteprophishing23": {
         "title": "Laureat Konkursu Phishingowego Elite Pro (Mar 2023)"
       },
@@ -358,7 +361,7 @@
         "title": "The Inside Man Sezon 3"
       },
       "onguard81update": {
-        "title": "Towarzysz OnGuard 8.1 Aktualizacja Certyfikacji"
+        "title": "OnGuard 8.1 Aktualizacja Certyfikacji"
       },
       "accesscontrolhw": {
         "title": "Sprzęt Kontroli Dostępu"
@@ -800,6 +803,9 @@
     "certs": {
       "title": "Certificates",
       "certificate": "Certificate",
+      "onguard82update": {
+        "title": "OnGuard 8.2 Associate Certification Update"
+      },
       "eliteprophishing23": {
         "title": "Elite Pro Phishing Competition Winner (Mar 2023)"
       },
