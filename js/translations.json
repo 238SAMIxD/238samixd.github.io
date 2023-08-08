@@ -55,6 +55,11 @@
     "work": {
       "title": "Doświadczenie zawodowe",
       "stack": "Technologie:",
+      "statscore": {
+        "name": "STATSCORE",
+        "title": "Skaut Sportowy",
+        "desc": ""
+      },
       "realme": {
         "name": "realme",
         "title": "Model",
@@ -594,6 +599,11 @@
     "work": {
       "title": "Work experience",
       "stack": "Stack:",
+      "statscore": {
+        "name": "STATSCORE",
+        "title": "Sports Scout",
+        "desc": ""
+      },
       "realme": {
         "name": "realme",
         "title": "Model",
