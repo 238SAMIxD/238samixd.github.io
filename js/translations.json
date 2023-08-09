@@ -58,7 +58,7 @@
       "statscore": {
         "name": "STATSCORE",
         "title": "Skaut Sportowy",
-        "desc": ""
+        "desc": "Prowadzenie relacji na żywo oraz zbieranie statystyk meczów piłki nożnej"
       },
       "realme": {
         "name": "realme",
@@ -602,7 +602,7 @@
       "statscore": {
         "name": "STATSCORE",
         "title": "Sports Scout",
-        "desc": ""
+        "desc": "Providing live relations and statistics for football matches"
       },
       "realme": {
         "name": "realme",
