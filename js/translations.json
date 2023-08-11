@@ -276,6 +276,9 @@
     "certs": {
       "title": "Certyfikaty",
       "certificate": "Certyfikat",
+      "eliteprophishing23jul": {
+        "title": "Laureat Konkursu Phishingowego Elite Pro (Lip 2023)"
+      },
       "feta2023": {
         "title": "Zaświadczenie o Wolontariacie - FETA 2023",
         "by": "Gdański Archipelag Kultury"
@@ -820,6 +823,9 @@
     "certs": {
       "title": "Certificates",
       "certificate": "Certificate",
+      "eliteprophishing23jul": {
+        "title": "Elite Pro Phishing Competition Winner (July 2023)"
+      },
       "feta2023": {
         "title": "Certificate of Appreciation - FETA 2023 Volunteer",
         "by": "Culture Archipelago of Gdansk"
