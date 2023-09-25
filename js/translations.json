@@ -276,6 +276,10 @@
     "certs": {
       "title": "Certyfikaty",
       "certificate": "Certyfikat",
+      "engineerconf23": {
+        "title": "Zaświadczenie o prowadzeniu badań naukowych",
+        "by": "Stowarzyszenie Elektryków Polskich (SEP)"
+      },
       "eliteprophishing23jul": {
         "title": "Laureat Konkursu Phishingowego Elite Pro (Lip 2023)"
       },
@@ -823,6 +827,10 @@
     "certs": {
       "title": "Certificates",
       "certificate": "Certificate",
+      "engineerconf23": {
+        "title": "Confirmation of scientific research",
+        "by": "Association of Polish Electrical Engineers (SEP)"
+      },
       "eliteprophishing23jul": {
         "title": "Elite Pro Phishing Competition Winner (July 2023)"
       },
