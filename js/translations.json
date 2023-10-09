@@ -240,6 +240,10 @@
     },
     "volunteering": {
       "title": "Wolontariat",
+      "infosharedev23": {
+        "title": "Asystent podczas Wydarzenia",
+        "desc": "Asystent w drużynie Sceny na scenie Czerwonej na Infoshare Dev Gdynia 2023"
+      },
       "feta2023": {
         "title": "Pomoc przy Wydarzeniu",
         "desc": "Udzielanie informacji, tworzenie przypinek, rozdawanie ulotek, zarządzanie scenami, ustawianie znaków podczas Festiwalu FETA 2023."
@@ -791,6 +795,10 @@
     },
     "volunteering": {
       "title": "Volunteering",
+      "infosharedev23": {
+        "title": "Event Assistant",
+        "desc": "Assistant in the Stages team working on Red Stage at Infoshare Dev Gdynia 2023"
+      },
       "feta2023": {
         "title": "Event Assistant",
         "desc": "Providing information, creating pins, handing out flyers, managing stages, setting up stands at FETA 2023 Fest."
