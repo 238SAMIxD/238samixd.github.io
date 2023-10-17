@@ -55,6 +55,11 @@
     "work": {
       "title": "Doświadczenie zawodowe",
       "stack": "Technologie:",
+      "esa": {
+        "name": "Esport Arena",
+        "title": "Realizator Transmisji",
+        "desc": "Nadawanie, utrzymywanie oraz komentowanie gier na żywo podczas Podkarpackiego Turnieju Esportowego"
+      },
       "statscore": {
         "name": "STATSCORE",
         "title": "Skaut Sportowy",
@@ -610,6 +615,11 @@
     "work": {
       "title": "Work experience",
       "stack": "Stack:",
+      "esa": {
+        "name": "Esport Arena",
+        "title": "Broadcast Producer",
+        "desc": "Streaming, maintaining and casting live games during Podkarpackie Esports Tournament"
+      },
       "statscore": {
         "name": "STATSCORE",
         "title": "Sports Scout",
