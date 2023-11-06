@@ -285,6 +285,9 @@
     "certs": {
       "title": "Certyfikaty",
       "certificate": "Certyfikat",
+      "infosharedev23": {
+        "title": "Certificate Uznania - Infoshare Dev Gdynia 2023"
+      },
       "gramyrazem23": {
         "title": "Aktywny udział w projekcie #GramyRazem"
       },
@@ -848,6 +851,9 @@
     "certs": {
       "title": "Certificates",
       "certificate": "Certificate",
+      "infosharedev23": {
+        "title": "Certificate of Appreciation - Infoshare Dev Gdynia 2023"
+      },
       "gramyrazem23": {
         "title": "Active Participation in #GramyRazem Project"
       },
