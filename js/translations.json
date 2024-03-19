@@ -55,6 +55,11 @@
     "work": {
       "title": "Doświadczenie zawodowe",
       "stack": "Technologie:",
+      "kp": {
+        "name": "Konwenty Południowe",
+        "title": "Programista",
+        "desc": "Ulepszanie strony internetowej oraz naprawianie błędów"
+      },
       "esa": {
         "name": "Esport Arena",
         "title": "Realizator Transmisji",
@@ -621,6 +626,11 @@
     "work": {
       "title": "Work experience",
       "stack": "Stack:",
+      "kp": {
+        "name": "Konwenty Południowe",
+        "title": "Programmer",
+        "desc": "Improving website and fixing bugs"
+      },
       "esa": {
         "name": "Esport Arena",
         "title": "Broadcast Producer",
