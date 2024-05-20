@@ -250,6 +250,10 @@
     },
     "volunteering": {
       "title": "Wolontariat",
+      "gitnation": {
+        "title": "Zdalny Wolontariusz",
+        "desc": "Pomoc przy konferencjach React Summit oraz JSNation"
+      },
       "polsvk24": {
         "title": "Obsługa Meczowa",
         "desc": "Pomoc podczas meczu kwalifikacyjnego do 29. Mistrzostw Świata w Piłce Ręcznej Polska - Słowacja. Obsługa meczowa - ustawianie trybun, niesienie flagi EHF, mopowanie boiska"
@@ -825,6 +829,10 @@
     },
     "volunteering": {
       "title": "Volunteering",
+      "gitnation": {
+        "title": "Remote Volunteer",
+        "desc": "Volunteering in React Summit and JSNation online conferences"
+      },
       "polsvk24": {
         "title": "Game Service",
         "desc": "Helping during 29th IHF World Championship qualification match between Poland and Slovakia. Game Service - setting audience, carrying the flags, mopping the court"
