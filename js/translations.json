@@ -298,6 +298,10 @@
     "certs": {
       "title": "Certyfikaty",
       "certificate": "Certyfikat",
+      "santandercybersecurity24": {
+        "title": "Szkolenie Santander | Cyberbezpieczeństwo dla każdego z Politechniką Poznańską 2024",
+        "by": "Santander Open Academy z Politechniką Poznańską"
+      },
       "infosharedev23": {
         "title": "Certificate Uznania - Infoshare Dev Gdynia 2023"
       },
@@ -877,6 +881,10 @@
     "certs": {
       "title": "Certificates",
       "certificate": "Certificate",
+      "santandercybersecurity24": {
+        "title": "Santander Course | Cyber security for all with Poznan University of Technology 2024",
+        "by": "Santander Open Academy with Poznan University of Technology"
+      },
       "infosharedev23": {
         "title": "Certificate of Appreciation - Infoshare Dev Gdynia 2023"
       },
