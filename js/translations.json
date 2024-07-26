@@ -161,6 +161,10 @@
       "title": "Projekty",
       "preview": "Podgląd",
       "download": "Pobierz",
+      "discord-bot-ai": {
+        "title": "Bot Discord AI",
+        "desc": "Bot Discord AI z użyciem Ollama - Collaborator i Maintainer"
+      },
       "orvideos": {
         "title": "Filmiki zmontowane przeze mnie dla OR",
         "desc": "Playlista z filmikami stworzonymi przeze mnie lub z moim udziałem na kanale Opiekunowie Runeterry"
@@ -749,6 +753,10 @@
       "title": "Projects",
       "preview": "Preview",
       "download": "Download",
+      "discord-bot-ai": {
+        "title": "Discord Bot AI",
+        "desc": "Discord AI chatbot using Ollama - Collaborator and Maintainer"
+      },
       "orvideos": {
         "title": "My video edits for OR",
         "desc": "A playlist to bundle all the videos I made or took part in for Opiekunowie Runeterry"
