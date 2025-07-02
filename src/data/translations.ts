@@ -1,4 +1,6 @@
-{
+import { TranslationData } from '../types/translations';
+
+export const translations: TranslationData = {
   "pl": {
     "current": "Obecnie",
     "month": {
@@ -577,7 +579,7 @@
         "desc": "Niepowtarzalny projekt charytatywny na Binance Smart Chain"
       },
       "show": {
-        "title": "Zwerifikowany Partner",
+        "title": "Zweryfikowany Partner",
         "desc": "Zweryfikowany partner Show.gg"
       },
       "instreamly": {
@@ -1183,4 +1185,4 @@
     "socialmedia": "Find me on social media.",
     "website": "Check out my website!"
   }
-}
+};
